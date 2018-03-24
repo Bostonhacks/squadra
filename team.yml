@@ -35,6 +35,12 @@ members:
             email: rooday@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Emmnauel Amponsah
+        github:
+            username: latterization
+            role: member
+        mailgun: 
+            email: eampons@bu.edu
     -   name: Charles Ma
         github:
             username: charlesma4
