@@ -35,6 +35,14 @@ members:
             email: rooday@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Charles Ma
+        github:
+            username: charlesma4
+            role: member
+        mailgun: 
+            email: cma4@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 
 mailgun:
     routes:
