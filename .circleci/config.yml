@@ -7,11 +7,15 @@ jobs:
     steps:
       - checkout
 
+      - restore_cache:
+          keys:
+            - rails-bundle-v2-{{ checksum "Gemfile.lock" }}
+            - rails-bundle-v2-
+
       - run:
           name: Bundle Install
-          command: bundle check || bundle install --path vendor/bundle
+          command: bundle check --path vendor/bundle || bundle install --path vendor/bundle
 
-      # Store bundle cache
       - save_cache:
           key: rails-bundle-v2-{{ checksum "Gemfile.lock" }}
           paths:
@@ -21,22 +25,8 @@ jobs:
           name: Validate team.yml
           command: bundle exec ruby validate.rb
 
-  deploy:
-      docker:
-        - image: circleci/ruby:2.4-node
-      steps:
-          - run:
-              name: Update bostonhacks team
-              command: bundle exec ruby squadra.rb
-
-workflows:
-  version: 2
-  build-and-deploy:
-    jobs:
-      - build
       - deploy:
-          requires:
-            - build
-          filters:
-            branches:
-              only: master
+          command: |
+            if [ "${CIRCLE_BRANCH}" == "master" ]; then
+              bundle exec ruby squadra.rb
+            fi
