@@ -1,0 +1,16 @@
+members: 
+    -   name: Andrew Hoang
+        github: 
+            username: a--hoang
+            role: admin
+        email: ahoang18@bu.edu
+    -   name: Lucas Watson
+        github:
+            username: lkwatson
+            role: admin
+        email: lkwatson@bu.edu
+    -   name: Ibrahim Shaikh
+        github:
+            username: ibrahims123457
+            role: member
+        email:
