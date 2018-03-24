@@ -35,6 +35,16 @@ members:
             email: rooday@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Ken Garber
+        github: 
+            username: keng98
+            role: admin
+        mailgun: 
+            email: kgarber@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+                -   dfp@bostonhacks.io
+
 
 mailgun:
     routes:
