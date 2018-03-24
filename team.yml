@@ -3,14 +3,42 @@ members:
         github: 
             username: a--hoang
             role: admin
-        email: ahoang18@bu.edu
+        mailgun: 
+            email: ahoang18@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+                -   dfp@bostonhacks.io
     -   name: Lucas Watson
         github:
             username: lkwatson
             role: admin
-        email: lkwatson@bu.edu
+        mailgun: 
+            email: lkwatson@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+                -   resumes@bostonhacks.io
+                -   records@bostonhacks.io
+                -   dfp@bostonhacks.io
     -   name: Ibrahim Shaikh
         github:
             username: ibrahims123457
             role: member
-        email:
+        mailgun: 
+            email: shaikh1@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+
+mailgun:
+    routes:
+        -   name: contact@bostonhacks.io
+            description: General catch-all bostonhacks emails
+            priority: 10
+        -   name: resumes@bostonhacks.io
+            description: Resumes for bostonhacks applicants
+            priority: 0
+        -   name: records@bostonhacks.io
+            description: Receipts and record emails
+            priority: 0
+        -   name: dfp@bostonhacks.io
+            description: Daily Free Press Team
+            priority: 5
