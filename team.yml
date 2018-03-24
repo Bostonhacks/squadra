@@ -43,6 +43,15 @@ members:
             email: cma4@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Warren Partridge
+        github:
+            username: Warren-Partridge
+            role: member
+        mailgun:
+            email: wpartrid@bu.edu
+            route:
+                -   contact@bostonhacks.io
+
 
 mailgun:
     routes:
