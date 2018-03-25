@@ -76,6 +76,14 @@ members:
             email: eampons@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Sarah Rieger
+        github:
+            username: sarah256
+            role: member
+        mailgun: 
+            email: srieger@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
