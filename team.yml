@@ -49,7 +49,7 @@ members:
             role: member
         mailgun:
             email: wpartrid@bu.edu
-            route:
+            routes:
                 -   contact@bostonhacks.io
 
 
