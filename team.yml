@@ -82,6 +82,8 @@ members:
             role: member
         mailgun: 
             email: srieger@bu.edu
+            routes:
+                -   contact@bostonhacks.io
     -   name: Mariana Garces Dematte
         github:
             username: maridematte
