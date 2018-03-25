@@ -35,6 +35,14 @@ members:
             email: rooday@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Sean Zhang
+        github:
+            username: puzzledsean
+            role: member
+        mailgun: 
+            email: seanz@bu.edu
+            routes:
+                -   contact@bostonhacks.io
     -   name: Charles Ma
         github:
             username: charlesma4
