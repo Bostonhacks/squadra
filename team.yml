@@ -19,6 +19,15 @@ members:
                 -   resumes@bostonhacks.io
                 -   records@bostonhacks.io
                 -   dfp@bostonhacks.io
+    -   name: Noah Naiman
+        github:
+            username: NoahNaiman
+            role: member
+        mailgun: 
+            email: nnaiman@bu.edu
+            routes:
+                -   dfp@bostonhacks.io
+                -   contact@bostonhacks.io
     -   name: Ibrahim Shaikh
         github:
             username: ibrahims123457
