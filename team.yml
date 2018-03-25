@@ -68,6 +68,14 @@ members:
             email: wpartrid@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Emmanuel Amponsah
+        github:
+            username: latterization
+            role: member
+        mailgun: 
+            email: eampons@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
