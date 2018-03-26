@@ -31,16 +31,22 @@ current_permissions.each do |username, permission|
   # If permission is different, delete and update
   elsif !new_permissions[username].nil?
     puts "Update permissions for user #{username} from #{current_permissions[username]} to #{new_permissions[username]}"
-    client.remove_organization_member('bostonhacks', username)
-    client.update_organization_membership(
-      'bostonhacks',
-      :user => username,
-      :role => new_permissions[username]
-    )
+    if (ENV['PROD'])
+      puts "Calling Github API, changing perms for user: #{username}"
+      client.remove_organization_member('bostonhacks', username)
+      client.update_organization_membership(
+        'bostonhacks',
+        :user => username,
+        :role => new_permissions[username]
+      )
+    end
   # Otherwise just delete
   else
     puts "Remove user #{username} from bostonhacks"
-    client.remove_organization_member('bostonhacks', username)
+    if (ENV['PROD'])
+      puts "Calling Github API, removing user: #{username}"
+      client.remove_organization_member('bostonhacks', username)
+    end
   end
   current_permissions.delete(username)
   new_permissions.delete(username)
@@ -49,9 +55,12 @@ end
 # Cleanup: add remaining users
 new_permissions.each do |username, permission|
   puts "Adding new member to bostonhacks: #{username}"
-  # client.update_organization_membership(
-  #   'bostonhacks',
-  #   :user => username,
-  #   :role => new_permissions[username]
-  # )
+  if (ENV['PROD'])
+    puts "Calling Github API, adding user: #{username}"
+    client.update_organization_membership(
+      'bostonhacks',
+      :user => username,
+      :role => new_permissions[username]
+    )
+  end
 end

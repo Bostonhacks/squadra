@@ -14,7 +14,8 @@ current_routes = res['items']
 
 # Delete all current routes to maintain state
 current_routes.each do |item|
-  client.delete "routes/#{item['id']}"
+  puts 'Deleting mailgun routes'
+  client.delete "routes/#{item['id']}" if (ENV['PROD'])
 end
 
 puts 'Routes flushed, rebuilding'
@@ -32,6 +33,7 @@ members.each do |member|
 end
 
 new_routes.each do |new_route|
+  puts "Creating new route with description: #{new_route['description']}"
   res = client.post "routes",  {:priority => new_route['priority'],
                                 :description => new_route['description'],
                                 :expression => "match_recipient(\"#{new_route['name']}\")",

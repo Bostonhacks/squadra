@@ -88,7 +88,7 @@ members:
     -   name: Sarah Rieger
         github:
             username: sarah256
-            role: member
+            role: admin
         mailgun: 
             email: srieger@bu.edu
             routes:
