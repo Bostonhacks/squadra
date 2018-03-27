@@ -109,6 +109,14 @@ members:
             email: ngb@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Sarah Greisdorf
+        github:
+            username: sarahgreisdorf
+            role: member
+        mailgun: 
+            email: sarah21@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
