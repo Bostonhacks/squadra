@@ -117,6 +117,14 @@ members:
             email: sarah21@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Anna Goncharova
+        github:
+            username: agoncharova
+            role: admin
+        mailgun: 
+            email: agonchar@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
