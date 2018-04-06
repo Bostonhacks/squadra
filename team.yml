@@ -125,6 +125,14 @@ members:
             email: agonchar@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Jason Cho
+        github:
+            username: jjuncho
+            role: member
+        mailgun:
+            email: jjuncho@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
