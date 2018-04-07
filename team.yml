@@ -125,6 +125,14 @@ members:
             email: agonchar@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Mark Bestavros
+        github:
+            username: mbestavros
+            role: member
+        mailgun: 
+            email: markbest@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
