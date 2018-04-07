@@ -19,6 +19,7 @@ members:
                 -   resumes@bostonhacks.io
                 -   records@bostonhacks.io
                 -   dfp@bostonhacks.io
+                -   mail@bostonhacks.io 
     -   name: Noah Naiman
         github:
             username: NoahNaiman
@@ -138,6 +139,9 @@ mailgun:
         -   name: contact@bostonhacks.io
             description: General catch-all bostonhacks emails
             priority: 10
+        -   name: mail@bostonhacks.io
+            description: Mail, used for mailchimp login
+            priority: 6
         -   name: resumes@bostonhacks.io
             description: Resumes for bostonhacks applicants
             priority: 0
