@@ -37,6 +37,7 @@ members:
             email: shaikh1@bu.edu
             routes:
                 -   contact@bostonhacks.io
+                -   mail@bostonhacks.io
     -   name: Rudhra Raveendran
         github:
             username: ROODAY
