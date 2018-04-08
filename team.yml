@@ -131,6 +131,8 @@ members:
             role: member
         mailgun:
             email: jjuncho@bu.edu
+            routes:
+                -   contact@bostonhacks.io
     -   name: Mark Bestavros
         github:
             username: mbestavros
