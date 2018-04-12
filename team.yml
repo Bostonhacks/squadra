@@ -23,7 +23,7 @@ members:
     -   name: Noah Naiman
         github:
             username: NoahNaiman
-            role: member
+            role: admin
         mailgun: 
             email: nnaiman@bu.edu
             routes:
