@@ -1,9 +1,9 @@
-members: 
+members:
     -   name: Andrew Hoang
-        github: 
+        github:
             username: a--hoang
             role: admin
-        mailgun: 
+        mailgun:
             email: ahoang18@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -12,18 +12,19 @@ members:
         github:
             username: lkwatson
             role: admin
-        mailgun: 
+        mailgun:
             email: lkwatson@bu.edu
             routes:
                 -   contact@bostonhacks.io
                 -   resumes@bostonhacks.io
                 -   records@bostonhacks.io
                 -   dfp@bostonhacks.io
+                -   mail@bostonhacks.io
     -   name: Noah Naiman
         github:
             username: NoahNaiman
-            role: member
-        mailgun: 
+            role: admin
+        mailgun:
             email: nnaiman@bu.edu
             routes:
                 -   dfp@bostonhacks.io
@@ -32,23 +33,32 @@ members:
         github:
             username: ibrahims123457
             role: member
-        mailgun: 
+        mailgun:
             email: shaikh1@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+
+    -   name: Michael Hendrick
+        github:
+            username: mhendrick98
+            role: member
+        mailgun:
+            email: mhendric@bu.edu
             routes:
                 -   contact@bostonhacks.io
     -   name: Rudhra Raveendran
         github:
             username: ROODAY
             role: member
-        mailgun: 
+        mailgun:
             email: rooday@bu.edu
             routes:
                 -   contact@bostonhacks.io
     -   name: Ken Garber
-        github: 
+        github:
             username: keng98
             role: admin
-        mailgun: 
+        mailgun:
             email: kgarber@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -57,7 +67,7 @@ members:
         github:
             username: puzzledsean
             role: member
-        mailgun: 
+        mailgun:
             email: seanz@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -65,7 +75,7 @@ members:
         github:
             username: charlesma4
             role: member
-        mailgun: 
+        mailgun:
             email: cma4@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -81,7 +91,7 @@ members:
         github:
             username: latterization
             role: member
-        mailgun: 
+        mailgun:
             email: eampons@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -89,7 +99,7 @@ members:
         github:
             username: sarah256
             role: admin
-        mailgun: 
+        mailgun:
             email: srieger@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -97,7 +107,7 @@ members:
         github:
             username: maridematte
             role: member
-        mailgun: 
+        mailgun:
             email: mdematte@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -105,7 +115,7 @@ members:
         github:
             username: bng8
             role: member
-        mailgun: 
+        mailgun:
             email: ngb@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -113,7 +123,7 @@ members:
         github:
             username: sarahgreisdorf
             role: member
-        mailgun: 
+        mailgun:
             email: sarah21@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -121,7 +131,7 @@ members:
         github:
             username: agoncharova
             role: admin
-        mailgun: 
+        mailgun:
             email: agonchar@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -137,8 +147,24 @@ members:
         github:
             username: mbestavros
             role: member
-        mailgun: 
+        mailgun:
             email: markbest@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+    -   name: Nam Pham
+        github:
+            username: nampham148
+            role: member
+        mailgun:
+            email: nampham@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+    -   name: Azaria Fowler
+        github:
+            username: ahfowler
+            role: member
+        mailgun: 
+            email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
 mailgun:
@@ -146,6 +172,9 @@ mailgun:
         -   name: contact@bostonhacks.io
             description: General catch-all bostonhacks emails
             priority: 10
+        -   name: mail@bostonhacks.io
+            description: Mail, used for mailchimp login
+            priority: 6
         -   name: resumes@bostonhacks.io
             description: Resumes for bostonhacks applicants
             priority: 0
