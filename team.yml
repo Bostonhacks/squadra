@@ -134,6 +134,14 @@ members:
             email: markbest@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Azaria Fowler
+        github:
+            username: ahfowler
+            role: member
+        mailgun: 
+            email: ahfowler@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
