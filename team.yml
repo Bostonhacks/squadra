@@ -147,8 +147,10 @@ members:
         github:
             username: nampham148
             role: member
-        mailgun: 
+        mailgun:
             email: nampham@bu.edu
+            routes:
+                -   contact@bostonhacks.io
     -   name: Azaria Fowler
         github:
             username: ahfowler
