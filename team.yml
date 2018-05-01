@@ -143,6 +143,14 @@ members:
             email: markbest@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Nam Pham
+        github:
+            username: nampham148
+            role: member
+        mailgun:
+            email: nampham@bu.edu
+            routes:
+                -   contact@bostonhacks.io
     -   name: Azaria Fowler
         github:
             username: ahfowler
