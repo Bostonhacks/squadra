@@ -168,13 +168,13 @@ members:
             routes:
                 -   contact@bostonhacks.io
     -   name: Victoria Kayola
-    	github:
-	    username: victoriakayola
+        github:
+            username: vkayola
             role: member
-    	mailgun: 
+        mailgun:
             email: vkayola@bu.edu
             routes:
-           	-   contact@bostonhacks.io
+                -   contact@bostonhacks.io
 
 mailgun:
     routes:
