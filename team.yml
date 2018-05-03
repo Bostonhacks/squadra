@@ -167,6 +167,14 @@ members:
             email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Gabriella Roman
+        github:
+            username: gabriellasroman
+            role: member
+        mailgun: 
+            email: gsroman@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
