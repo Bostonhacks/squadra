@@ -167,6 +167,15 @@ members:
             email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Victoria Kayola
+    	github:
+	    username: victoriakayola
+            role: member
+    	mailgun: 
+            email: vkayola@bu.edu
+            routes:
+           	-   contact@bostonhacks.io
+
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
