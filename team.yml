@@ -37,7 +37,7 @@ members:
             email: shaikh1@bu.edu
             routes:
                 -   contact@bostonhacks.io
-
+                -   mail@bostonhacks.io
     -   name: Michael Hendrick
         github:
             username: mhendrick98
@@ -173,6 +173,14 @@ members:
             role: member
         mailgun: 
             email: sidprem@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+    -   name: Victoria Kayola
+        github:
+            username: vkayola
+            role: member
+        mailgun:
+            email: vkayola@bu.edu
             routes:
                 -   contact@bostonhacks.io
 mailgun:
