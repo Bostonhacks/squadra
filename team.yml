@@ -167,6 +167,14 @@ members:
             email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Sid Premkumar
+        github:
+            username: sidpremkumar
+            role: member
+        mailgun: 
+            email: sidprem@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
