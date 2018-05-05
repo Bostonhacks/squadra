@@ -183,6 +183,14 @@ members:
             email: vkayola@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Chinwe Oparaji
+        github:
+            username: bianca-sparxs
+            role: member
+        mailgun:
+            email: sparxs@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
