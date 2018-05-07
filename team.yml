@@ -163,7 +163,7 @@ members:
         github:
             username: ahfowler
             role: member
-        mailgun: 
+        mailgun:
             email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -171,7 +171,7 @@ members:
         github:
             username: sidpremkumar
             role: member
-        mailgun: 
+        mailgun:
             email: sidprem@bu.edu
             routes:
                 -   contact@bostonhacks.io
@@ -181,6 +181,14 @@ members:
             role: member
         mailgun:
             email: vkayola@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+    -   name: Lisa Vu
+        github:
+            username: lisaqvu
+            role: member
+        mailgun:
+            email: lisaqv@bu.edu
             routes:
                 -   contact@bostonhacks.io
 mailgun:
