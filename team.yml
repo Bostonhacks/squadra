@@ -167,36 +167,12 @@ members:
             email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
-    -   name: Sid Premkumar
+    -   name: Gabriella Roman
         github:
-            username: sidpremkumar
+            username: gabriellasroman
             role: member
-        mailgun:
-            email: sidprem@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-    -   name: Victoria Kayola
-        github:
-            username: victoriakayola
-            role: member
-        mailgun:
-            email: vkayola@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-    -   name: Chinwe Oparaji
-        github:
-            username: bianca-sparxs
-            role: member
-        mailgun:
-            email: sparxs@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-    -   name: Lisa Vu
-        github:
-            username: lisaqvu
-            role: member
-        mailgun:
-            email: lisaqv@bu.edu
+        mailgun: 
+            email: gsroman@bu.edu
             routes:
                 -   contact@bostonhacks.io
 mailgun:
