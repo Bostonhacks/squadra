@@ -37,7 +37,7 @@ members:
             email: shaikh1@bu.edu
             routes:
                 -   contact@bostonhacks.io
-
+                -   mail@bostonhacks.io
     -   name: Michael Hendrick
         github:
             username: mhendrick98
@@ -89,7 +89,7 @@ members:
                 -   contact@bostonhacks.io
     -   name: Emmanuel Amponsah
         github:
-            username: latterization
+            username: emampons
             role: member
         mailgun:
             email: eampons@bu.edu
@@ -163,7 +163,7 @@ members:
         github:
             username: ahfowler
             role: member
-        mailgun: 
+        mailgun:
             email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
