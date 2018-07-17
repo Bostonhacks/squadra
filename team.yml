@@ -20,6 +20,7 @@ members:
                 -   records@bostonhacks.io
                 -   dfp@bostonhacks.io
                 -   mail@bostonhacks.io
+                -   sponsor@bostonhacks.io
     -   name: Noah Naiman
         github:
             username: NoahNaiman
@@ -38,6 +39,7 @@ members:
             routes:
                 -   contact@bostonhacks.io
                 -   mail@bostonhacks.io
+                -   sponsor@bostonhacks.io
     -   name: Michael Hendrick
         github:
             username: mhendrick98
@@ -79,6 +81,7 @@ members:
             email: cma4@bu.edu
             routes:
                 -   contact@bostonhacks.io
+                -   sponsor@bostonhacks.io
     -   name: Warren Partridge
         github:
             username: Warren-Partridge
@@ -175,6 +178,7 @@ members:
             email: sidprem@bu.edu
             routes:
                 -   contact@bostonhacks.io
+                -   sponsor@bostonhacks.io
     -   name: Victoria Kayola
         github:
             username: victoriakayola
@@ -199,6 +203,7 @@ members:
             email: lisaqv@bu.edu
             routes:
                 -   contact@bostonhacks.io
+                -   sponsor@bostonhacks.io
     -   name: Katie Quirk
         github:
             username: katiequirk
@@ -231,4 +236,7 @@ mailgun:
             priority: 0
         -   name: dfp@bostonhacks.io
             description: Daily Free Press Team
+            priority: 5
+        -   name: sponsor@bostonhacks.io
+            description: Sponsor Team
             priority: 5
