@@ -220,6 +220,14 @@ members:
             email: afarra@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Angelica Yoon
+        github:
+            username: anjellelly
+            role: member
+        mailgun:
+            email: anjelly@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
