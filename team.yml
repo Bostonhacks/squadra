@@ -199,14 +199,6 @@ members:
             email: lisaqv@bu.edu
             routes:
                 -   contact@bostonhacks.io
-    -   name: Alex Farra
-        github:
-            username: Impendeon
-            role: member
-        mailgun:
-            email: afarra@bu.edu
-            routes:
-                -   contact@bostonhacks.io
     -   name: Katie Quirk
         github:
             username: katiequirk
