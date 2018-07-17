@@ -212,6 +212,14 @@ members:
             email: kquirk@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Alex Farra
+        github:
+            username: alexfarra
+            role: member
+        mailgun:
+            email: afarra@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
