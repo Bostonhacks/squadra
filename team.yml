@@ -229,3 +229,6 @@ mailgun:
         -   name: dfp@bostonhacks.io
             description: Daily Free Press Team
             priority: 5
+        -   name: sponsor@bostonhacks.io
+            description: Sponsor Team
+            priority: 5
