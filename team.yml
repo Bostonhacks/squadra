@@ -175,6 +175,14 @@ members:
             email: vkayola@bu.edu
             routes:
                 -   contact@bostonhacks.io
+       -   name: Jennifer Sunmin Roh
+        github:
+            username: smroh17
+            role: member
+        mailgun:
+            email: smroh17@bu.edu
+            routes:
+                -   contact@bostonhacks.io
 
 mailgun:
     routes:
