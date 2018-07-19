@@ -1,6 +1,8 @@
 require 'mailgun'
 require 'set'
 require 'yaml'
+require_relative './httplog'
+require_relative './webmock'
 
 puts 'Starting mailgun team update'
 
@@ -15,7 +17,9 @@ current_routes = res['items']
 # Delete all current routes to maintain state
 current_routes.each do |item|
   puts 'Deleting mailgun routes'
-  client.delete "routes/#{item['id']}" if (ENV['PROD'])
+  if (ENV['PROD'])
+    client.delete "routes/#{item['id']}" if (ENV['PROD'])
+  end
 end
 
 puts 'Routes flushed, rebuilding'
@@ -34,10 +38,12 @@ end
 
 new_routes.each do |new_route|
   puts "Creating new route with description: #{new_route['description']}"
+  if (ENV['PROD'])
   res = client.post "routes",  {:priority => new_route['priority'],
                                 :description => new_route['description'],
                                 :expression => "match_recipient(\"#{new_route['name']}\")",
                                 :action => "forward(\"#{forward_emails[new_route['name']]}\")"}
+  end
   puts "Added email route #{new_route['name']}, mailgun response: #{res.to_h['message']}"
 end
 

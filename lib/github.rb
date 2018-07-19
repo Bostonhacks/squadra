@@ -1,5 +1,7 @@
 require 'octokit'
 require 'yaml'
+require_relative './httplog'
+require_relative './webmock'
 
 puts 'Starting github team update'
 
