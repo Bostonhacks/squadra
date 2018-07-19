@@ -76,9 +76,22 @@ members:
     -   name: Charles Ma
         github:
             username: charlesma4
-            role: member
+            role: admin
         mailgun:
             email: cma4@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+                -   sponsor@bostonhacks.io
+                -   resumes@bostonhacks.io
+                -   records@bostonhacks.io
+                -   dfp@bostonhacks.io
+                -   mail@bostonhacks.io
+    -   name: Jennifer Sunmin Roh
+        github:
+            username: smroh17
+            role: member
+        mailgun:
+            email: smroh17@bu.edu
             routes:
                 -   contact@bostonhacks.io
                 -   sponsor@bostonhacks.io
