@@ -31,7 +31,7 @@ current_permissions.each do |username, permission|
   # If permission is different, delete and update
   elsif !new_permissions[username].nil?
     puts "Update permissions for user #{username} from #{current_permissions[username]} to #{new_permissions[username]}"
-    if (ENV['PROD'])
+    if (ENV['LOCATION'] == "PRODUCTION")
       puts "Calling Github API, changing perms for user: #{username}"
       client.remove_organization_member('bostonhacks', username)
       client.update_organization_membership(
@@ -43,7 +43,7 @@ current_permissions.each do |username, permission|
   # Otherwise just delete
   else
     puts "Remove user #{username} from bostonhacks"
-    if (ENV['PROD'])
+    if (ENV['LOCATION'] == "PRODUCTION")
       puts "Calling Github API, removing user: #{username}"
       client.remove_organization_member('bostonhacks', username)
     end
@@ -55,7 +55,7 @@ end
 # Cleanup: add remaining users
 new_permissions.each do |username, permission|
   puts "Adding new member to bostonhacks: #{username}"
-  if (ENV['PROD'])
+  if (ENV['LOCATION'] == "PRODUCTION")
     puts "Calling Github API, adding user: #{username}"
     client.update_organization_membership(
       'bostonhacks',
