@@ -54,7 +54,7 @@ current_members.each do |member|
       client.update_organization_membership(
         'bostonhacks',
         :user => member_login,
-        :role => new_permissions[username]
+        :role => new_permissions[member_login]
       )
     end
     new_permissions.delete(member_login)
