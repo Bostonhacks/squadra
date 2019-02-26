@@ -2,7 +2,7 @@ require 'mailgun'
 require 'set'
 require 'yaml'
 
-puts 'Starting mailgun team update'
+puts '~~~ Starting mailgun team update ~~~'
 
 config = YAML.load_file('team.yml')
 new_routes = config['mailgun']['routes']
@@ -47,3 +47,4 @@ new_routes.each do |new_route|
   puts "Added email route #{new_route['name']}, mailgun response: #{res.to_h['message']}"
 end
 
+puts "~~~ Finished updating mailgun routes ~~~"
