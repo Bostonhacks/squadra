@@ -2,7 +2,7 @@ members:
     -   name: Andrew Hoang
         github:
             username: a--hoang
-            role: admin
+            role: member
         mailgun:
             email: ahoang18@bu.edu
             routes:
@@ -11,7 +11,7 @@ members:
     -   name: Lucas Watson
         github:
             username: lkwatson
-            role: admin
+            role: member
         mailgun:
             email: lkwatson@bu.edu
             routes:
@@ -24,7 +24,7 @@ members:
     -   name: Noah Naiman
         github:
             username: NoahNaiman
-            role: admin
+            role: member
         mailgun:
             email: nnaiman@bu.edu
             routes:
@@ -43,7 +43,7 @@ members:
     -   name: Michael Hendrick
         github:
             username: mhendrick98
-            role: member
+            role: admin
         mailgun:
             email: mhendric@bu.edu
             routes:
@@ -65,14 +65,6 @@ members:
             routes:
                 -   contact@bostonhacks.io
                 -   dfp@bostonhacks.io
-    -   name: Sean Zhang
-        github:
-            username: puzzledsean
-            role: member
-        mailgun:
-            email: seanz@bu.edu
-            routes:
-                -   contact@bostonhacks.io
     -   name: Charles Ma
         github:
             username: charlesma4
@@ -101,7 +93,7 @@ members:
     -   name: Sarah Rieger
         github:
             username: sarah256
-            role: admin
+            role: member
         mailgun:
             email: srieger@bu.edu
             routes:
@@ -109,33 +101,17 @@ members:
     -   name: Mariana Garces Dematte
         github:
             username: maridematte
-            role: member
+            role: admin
         mailgun:
             email: mdematte@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-    -   name: Brandon Ng
-        github:
-            username: bng8
-            role: member
-        mailgun:
-            email: ngb@bu.edu
             routes:
                 -   contact@bostonhacks.io
     -   name: Sarah Greisdorf
         github:
             username: sarahgreisdorf
-            role: member
-        mailgun:
-            email: sarah21@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-    -   name: Anna Goncharova
-        github:
-            username: agoncharova
             role: admin
         mailgun:
-            email: agonchar@bu.edu
+            email: sarah21@bu.edu
             routes:
                 -   contact@bostonhacks.io
     -   name: Jason Cho
@@ -146,28 +122,12 @@ members:
             email: jjuncho@bu.edu
             routes:
                 -   contact@bostonhacks.io
-    -   name: Mark Bestavros
-        github:
-            username: mbestavros
-            role: member
-        mailgun:
-            email: markbest@bu.edu
-            routes:
-                -   contact@bostonhacks.io
     -   name: Nam Pham
         github:
             username: nampham148
             role: member
         mailgun:
             email: nampham@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-    -   name: Azaria Fowler
-        github:
-            username: ahfowler
-            role: member
-        mailgun:
-            email: ahfowler@bu.edu
             routes:
                 -   contact@bostonhacks.io
     -   name: Sid Premkumar
@@ -204,14 +164,6 @@ members:
             routes:
                 -   contact@bostonhacks.io
                 -   sponsor@bostonhacks.io
-    -   name: Katie Quirk
-        github:
-            username: katiequirk
-            role: member
-        mailgun:
-            email: kquirk@bu.edu
-            routes:
-                -   contact@bostonhacks.io
     -   name: Alex Farra
         github:
             username: alexfarra
@@ -220,6 +172,78 @@ members:
             email: afarra@bu.edu
             routes:
                 -   contact@bostonhacks.io
+    -   name: Austin Negron
+        github:
+            username: austinnegron
+            role: member
+        mailgun:
+            email: negrona@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Gabriella Roman
+        github:
+            username: gabriellasroman
+            role: member
+        mailgun:
+            email: gsroman@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Jason Li
+        github:
+            username: jli12
+            role: member
+        mailgun:
+            email: jfli@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Melissa Lin
+        github:
+            username: momolin78
+            role: member
+        mailgun:
+            email: mlin2022@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Jennifer Roh
+        github:
+            username: smroh17
+            role: member
+        mailgun:
+            email: smroh17@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Ben Lague
+        github:
+            username: benlague
+            role: member
+        mailgun:
+            email: benlague@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Jennifer Kim
+        github:
+            username: jennkimerson
+            role: member
+        mailgun:
+            email: jenkim@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Roger Ramesh
+        github:
+            username: rogerramesh
+            role: member
+        mailgun:
+            email: rmramesh@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Grace Colbert
+        github:
+            username: gracejpeg
+            role: member
+        mailgun:
+            email: gcolbert@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
