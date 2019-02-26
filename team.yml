@@ -11,7 +11,7 @@ members:
     -   name: Lucas Watson
         github:
             username: lkwatson
-            role: member
+            role: admin
         mailgun:
             email: lkwatson@bu.edu
             routes:
