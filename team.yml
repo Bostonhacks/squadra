@@ -1,13 +1,4 @@
 members:
-    -   name: Andrew Hoang
-        github:
-            username: a--hoang
-            role: member
-        mailgun:
-            email: ahoang18@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-                -   dfp@bostonhacks.io
     -   name: Lucas Watson
         github:
             username: lkwatson
