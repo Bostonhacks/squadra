@@ -78,4 +78,3 @@ permission_list = drive_service.list_permissions(ENV["DRIVE_ID"], supports_team_
 permission_list.items.each do |permission|
   puts permission.email_address
 end
-
