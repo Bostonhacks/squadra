@@ -4,7 +4,7 @@ jobs:
   test:
     working_directory: ~/bostonhacks-squadra
     docker:
-      - image: circleci/ruby:2.4-node
+      - image: circleci/ruby:2.6
     steps:
       - checkout
       - restore_cache:
@@ -28,7 +28,7 @@ jobs:
         - master
     working_directory: ~/bostonhacks-squadra
     docker:
-      - image: circleci/ruby:2.4-node
+      - image: circleci/ruby:2.6
     steps:
       - checkout
       - restore_cache:
