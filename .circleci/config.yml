@@ -32,26 +32,35 @@ commands:
           name: Validate team.yml
           command: bundle exec ruby validate.rb
 
-jobs:
-
-  test_job:
-    executor: main_env
+  deploy_command:
     steps:
-      - checkout
-      - cache_work
-      - validate_team_yml
-
-  deploy_job:
-    executor: main_env
-    steps:
-      - checkout
-      - cache_work
-      - validate_team_yml
       - deploy:
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               bundle exec ruby squadra.rb
             fi
+
+jobs:
+
+  squadra_job:
+    executor: main_env
+    steps:
+      - checkout
+      - cache_work
+      - validate_team_yml
+      - deploy_command
+
+  # deploy_job:
+  #   executor: main_env
+  #   steps:
+  #     - checkout
+  #     - cache_work
+  #     - validate_team_yml
+  #     - deploy:
+  #         command: |
+  #           if [ "${CIRCLE_BRANCH}" == "master" ]; then
+  #             bundle exec ruby squadra.rb
+  #           fi
 
   # test:
   #   working_directory: ~/bostonhacks-squadra
@@ -112,13 +121,13 @@ jobs:
 workflows:
   version: 2
 
-  test_workflow:
+  squadra_workflow:
     jobs:
-      - test_job
+      - squadra_job
 
-  deploy_workflow:
-    jobs:
-      - test_job
-      - deploy_job:
-          requires:
-            - test_job
+  # deploy_workflow:
+  #   jobs:
+  #     - test_job
+  #     - deploy_job:
+  #         requires:
+  #           - test_job
