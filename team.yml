@@ -1,8 +1,5 @@
 members:
     -   name: Andrew Hoang
-        github:
-            username: a--hoang
-            role: member
         mailgun:
             email: ahoang18@bu.edu
             routes:
