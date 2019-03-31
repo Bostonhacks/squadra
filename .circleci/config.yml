@@ -34,7 +34,8 @@ commands:
 
   deploy_command:
     steps:
-      - deploy:
+      - run:
+          name: Deploy if Master Branch
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               bundle exec ruby squadra.rb
@@ -42,12 +43,23 @@ commands:
 
 jobs:
 
-  squadra_job:
+  # test_job:
+  #   execut: main_env
+  #     steps:
+  #       - checkout
+  #       - cache_work
+  #       - validate_team_yml
+
+  squadra_test_job:
     executor: main_env
     steps:
       - checkout
       - cache_work
       - validate_team_yml
+
+  squadra_deploy_job:
+    executor: main_env
+    steps:
       - deploy_command
 
   # deploy_job:
@@ -123,7 +135,13 @@ workflows:
 
   squadra_workflow:
     jobs:
-      - squadra_job
+      - squadra_test_job
+      - squadra_deploy_job:
+          filters:
+            branches:
+              only: master
+          requires:
+            - squadra_test_job
 
   # deploy_workflow:
   #   jobs:
