@@ -1,32 +1,133 @@
-version: 2
-jobs:
-  build:
+version: 2.1
+
+executors:
+
+  main_env:
     working_directory: ~/bostonhacks-squadra
     docker:
-      - image: circleci/ruby:2.4-node
-    steps:
-      - checkout
+      - image: circleci/ruby:2.6-node
 
+commands:
+
+  cache_work:
+    steps:
       - restore_cache:
           keys:
             - rails-bundle-v3-{{ checksum "Gemfile.lock" }}
             - rails-bundle-v3-
-
+      - run: 
+          name: Install Bundler
+          command: gem install bundler:2.0.1
       - run:
           name: Bundle Install
           command: bundle check --path vendor/bundle || bundle install --path vendor/bundle
-
       - save_cache:
           key: rails-bundle-v3-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
-      
+
+  validate_team_yml:
+    steps:
       - run:
           name: Validate team.yml
           command: bundle exec ruby validate.rb
 
+  deploy_command:
+    steps:
       - deploy:
           command: |
             if [ "${CIRCLE_BRANCH}" == "master" ]; then
               bundle exec ruby squadra.rb
             fi
+
+jobs:
+
+  squadra_job:
+    executor: main_env
+    steps:
+      - checkout
+      - cache_work
+      - validate_team_yml
+      - deploy_command
+
+  # deploy_job:
+  #   executor: main_env
+  #   steps:
+  #     - checkout
+  #     - cache_work
+  #     - validate_team_yml
+  #     - deploy:
+  #         command: |
+  #           if [ "${CIRCLE_BRANCH}" == "master" ]; then
+  #             bundle exec ruby squadra.rb
+  #           fi
+
+  # test:
+  #   working_directory: ~/bostonhacks-squadra
+  #   docker:
+  #     - image: circleci/ruby:2.6-node
+  #   steps:
+  #     - checkout
+  #     - restore_cache:
+  #         keys:
+  #           - rails-bundle-v3-{{ checksum "Gemfile.lock" }}
+  #           - rails-bundle-v3-
+  #     - run: 
+  #         name: Install Bundler
+  #         command: gem install bundler:2.0.1
+  #     - run:
+  #         name: Bundle Install
+  #         command: bundle check --path vendor/bundle || bundle install --path vendor/bundle
+  #     - save_cache:
+  #         key: rails-bundle-v3-{{ checksum "Gemfile.lock" }}
+  #         paths:
+  #           - vendor/bundle
+  #     - run:
+  #         name: Validate team.yml
+  #         command: bundle exec ruby validate.rb
+
+  # build:
+  #   branches:
+  #     only:
+  #       - master
+  #   working_directory: ~/bostonhacks-squadra
+  #   docker:
+  #     - image: circleci/ruby:2.6-node
+  #   steps:
+  #     - checkout
+  #     - restore_cache:
+  #         keys:
+  #           - rails-bundle-v3-{{ checksum "Gemfile.lock" }}
+  #           - rails-bundle-v3-
+  #     - run: 
+  #         name: Install Bundler
+  #         command: gem install bundler:2.0.1
+  #     - run:
+  #         name: Bundle Install
+  #         command: bundle check --path vendor/bundle || bundle install --path vendor/bundle
+  #     - save_cache:
+  #         key: rails-bundle-v3-{{ checksum "Gemfile.lock" }}
+  #         paths:
+  #           - vendor/bundle
+  #     - run:
+  #         name: Validate team.yml
+  #         command: bundle exec ruby validate.rb
+  #     - deploy:
+  #         command: |
+  #           if [ "${CIRCLE_BRANCH}" == "master" ]; then
+  #             bundle exec ruby squadra.rb
+  #           fi
+
+workflows:
+  version: 2
+
+  squadra_workflow:
+    jobs:
+      - squadra_job
+
+  # deploy_workflow:
+  #   jobs:
+  #     - test_job
+  #     - deploy_job:
+  #         requires:
+  #           - test_job
