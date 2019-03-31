@@ -50,16 +50,12 @@ jobs:
   #       - cache_work
   #       - validate_team_yml
 
-  squadra_test_job:
+  squadra_job:
     executor: main_env
     steps:
       - checkout
       - cache_work
       - validate_team_yml
-
-  squadra_deploy_job:
-    executor: main_env
-    steps:
       - deploy_command
 
   # deploy_job:
@@ -135,13 +131,7 @@ workflows:
 
   squadra_workflow:
     jobs:
-      - squadra_test_job
-      - squadra_deploy_job:
-          filters:
-            branches:
-              only: master
-          requires:
-            - squadra_test_job
+      - squadra_job
 
   # deploy_workflow:
   #   jobs:
