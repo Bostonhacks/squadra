@@ -4,13 +4,16 @@ jobs:
   test:
     working_directory: ~/bostonhacks-squadra
     docker:
-      - image: circleci/ruby:2.6
+      - image: circleci/ruby:2.6-node
     steps:
       - checkout
       - restore_cache:
           keys:
             - rails-bundle-v3-{{ checksum "Gemfile.lock" }}
             - rails-bundle-v3-
+      - run: 
+          name: Install Bundler
+          command: gem install bundler:2.0.1
       - run:
           name: Bundle Install
           command: bundle check --path vendor/bundle || bundle install --path vendor/bundle
@@ -28,13 +31,16 @@ jobs:
         - master
     working_directory: ~/bostonhacks-squadra
     docker:
-      - image: circleci/ruby:2.6
+      - image: circleci/ruby:2.6-node
     steps:
       - checkout
       - restore_cache:
           keys:
             - rails-bundle-v3-{{ checksum "Gemfile.lock" }}
             - rails-bundle-v3-
+      - run: 
+          name: Install Bundler
+          command: gem install bundler:2.0.1
       - run:
           name: Bundle Install
           command: bundle check --path vendor/bundle || bundle install --path vendor/bundle
