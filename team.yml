@@ -235,6 +235,14 @@ members:
             email: gcolbert@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Xavier Ruiz
+        github:
+            username: xavierrocks
+            role: member
+        mailgun:
+            email: xruiz@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
