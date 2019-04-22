@@ -234,7 +234,15 @@ members:
         mailgun:
             email: gcolbert@bu.edu
             routes:
-                - contact@bostonhacks.io
+                 - contact@bostonhacks.io
+    -   name: Nikita Jakkam
+	github:
+	    username: nikitajakkam
+	    role: member
+	mailgun:
+	    email: njakkam@bu.edu
+	    routes:
+		- contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
