@@ -235,6 +235,14 @@ members:
             email: gcolbert@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Jin Young Bang
+        github:
+            username: jinyoungbang
+            role: member
+        mailgun:
+            email: jybang@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
