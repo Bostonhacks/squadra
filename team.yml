@@ -235,6 +235,14 @@ members:
             email: gcolbert@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Joyce Hu
+        github:
+            username: jooyce
+            role: member
+        mailgun:
+            email: joycehu@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
