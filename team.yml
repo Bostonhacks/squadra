@@ -235,6 +235,14 @@ members:
         mailgun:
             email: gcolbert@bu.edu
             routes:
+                 - contact@bostonhacks.io
+    -   name: Nikita Jakkam
+        github:
+            username: nikitajakkam
+            role: member
+        mailgun:
+            email: njakkam@bu.edu
+            routes:
                 - contact@bostonhacks.io
     -   name: Xavier Ruiz
         github:
