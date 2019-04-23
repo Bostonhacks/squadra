@@ -236,6 +236,14 @@ members:
             email: gcolbert@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Chris Chang
+        github:
+            username: cpchang11
+            role: member
+        mailgun:
+            email: changc21@bu.edu
+            routes:
+                - contact@bostonhacks.io
     -   name: Jin Young Bang
         github:
             username: jinyoungbang
