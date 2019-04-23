@@ -236,6 +236,14 @@ members:
             email: gcolbert@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Rishab Nayak	
+        github:
+            username: rishab2113
+            role: member
+        mailgun:
+            email: rishab@bu.edu
+            routes:
+                - contact@bostonhacks.io
     -   name: Asif Rahman
         github:
             username: asifrahman479
