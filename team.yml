@@ -243,6 +243,14 @@ members:
             email: joycehu@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Blake Abel
+        github:
+            username: blabel3
+            role: member
+        mailgun:
+            email: blabel@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
