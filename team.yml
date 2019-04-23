@@ -231,6 +231,7 @@ members:
         github:
             username: gracejpeg
             role: member
+        
         mailgun:
             email: gcolbert@bu.edu
             routes:
@@ -241,6 +242,40 @@ members:
             role: member
         mailgun:
             email: jybang@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Rishab Nayak	
+        github:
+            username: rishab2113
+            role: member
+        mailgun:
+            email: rishab@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Asif Rahman
+        github:
+            username: asifrahman479
+            role: member
+        mailgun:
+            email: rasif@bu.edu
+            routes:
+                -   contact@bostonhacks.io
+                -   mail@bostonhacks.io
+                -   sponsor@bostonhacks.io
+    -   name: Joyce Hu
+        github:
+            username: jooyce
+            role: member
+        mailgun:
+            email: joycehu@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Blake Abel
+        github:
+            username: blabel3
+            role: member
+        mailgun:
+            email: blabel@bu.edu
             routes:
                 - contact@bostonhacks.io
 mailgun:
