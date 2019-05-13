@@ -302,6 +302,15 @@ members:
             email: blabel@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Fiona Lin
+        github:
+            username: fionaliciaa
+            role: member
+        mailgun:
+            email: fionalin@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
