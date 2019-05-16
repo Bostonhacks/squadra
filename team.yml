@@ -310,6 +310,14 @@ members:
             email: fionalin@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Alicja Wisniowska
+        github:
+            username: alicjaw
+            role: member
+        mailgun:
+            email: alicjaw@bu.edu
+            routes:
+                - contact@bostonhacks.io
     
 mailgun:
     routes:
