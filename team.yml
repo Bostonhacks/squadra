@@ -318,7 +318,7 @@ members:
             email: alicjaw@bu.edu
             routes:
                 - contact@bostonhacks.io
-     -   name: Prim Promchotichai
+    -   name: Prim Promchotichai
         github:
             username: primnp
             role: member
