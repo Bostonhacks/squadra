@@ -326,6 +326,14 @@ members:
             email: pnuwapa@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Tin Nguyen
+        github:
+            username: tintheturtle
+            role: member
+        mailgun:
+            email: tinhoang@bu.edu
+            routes:
+                - contact@bostonhacks.io
     
 mailgun:
     routes:
