@@ -21,6 +21,7 @@ members:
             routes:
                 -   dfp@bostonhacks.io
                 -   contact@bostonhacks.io
+                -   sponsor@bostonhacks.io
     -   name: Ibrahim Shaikh
         github:
             username: ibrahims123457
@@ -105,6 +106,7 @@ members:
             email: sarah21@bu.edu
             routes:
                 -   contact@bostonhacks.io
+                -   sponsor@bostonhacks.io
     -   name: Jason Cho
         github:
             username: jjuncho
@@ -211,6 +213,7 @@ members:
             email: benlague@bu.edu
             routes:
                 - contact@bostonhacks.io
+                - sponsor@bostonhacks.io
     -   name: Jennifer Kim
         github:
             username: jennkimerson
@@ -227,11 +230,12 @@ members:
             email: rmramesh@bu.edu
             routes:
                 - contact@bostonhacks.io
+                - sponsor@bostonhacks.io
     -   name: Grace Colbert
         github:
             username: gracejpeg
             role: member
-        
+
         mailgun:
             email: gcolbert@bu.edu
             routes:
@@ -244,6 +248,7 @@ members:
             email: njakkam@bu.edu
             routes:
                 - contact@bostonhacks.io
+                - sponsor@bostonhacks.io
     -   name: Xavier Ruiz
         github:
             username: xavierrocks
@@ -268,7 +273,7 @@ members:
             email: jybang@bu.edu
             routes:
                 - contact@bostonhacks.io
-    -   name: Rishab Nayak	
+    -   name: Rishab Nayak
         github:
             username: rishab2113
             role: member
@@ -334,7 +339,7 @@ members:
             email: tinhoang@bu.edu
             routes:
                 - contact@bostonhacks.io
-    
+
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
