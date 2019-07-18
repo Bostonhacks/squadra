@@ -22,16 +22,6 @@ members:
                 -   dfp@bostonhacks.io
                 -   contact@bostonhacks.io
                 -   sponsor@bostonhacks.io
-    -   name: Ibrahim Shaikh
-        github:
-            username: ibrahims123457
-            role: member
-        mailgun:
-            email: shaikh1@bu.edu
-            routes:
-                -   contact@bostonhacks.io
-                -   mail@bostonhacks.io
-                -   sponsor@bostonhacks.io
     -   name: Michael Hendrick
         github:
             username: mhendrick98
