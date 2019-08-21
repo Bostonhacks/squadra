@@ -64,14 +64,6 @@ members:
             email: wpartrid@bu.edu
             routes:
                 -   contact@bostonhacks.io
-    -   name: Emmanuel Amponsah
-        github:
-            username: emampons
-            role: member
-        mailgun:
-            email: eampons@bu.edu
-            routes:
-                -   contact@bostonhacks.io
     -   name: Sarah Rieger
         github:
             username: sarah256
