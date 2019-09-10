@@ -321,7 +321,14 @@ members:
             email: tinhoang@bu.edu
             routes:
                 - contact@bostonhacks.io
-
+    -   name: Ramsha Arshad
+        github:
+            username: ramshaarshad
+            role: member
+        mailgun:
+            email: arshadr@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
