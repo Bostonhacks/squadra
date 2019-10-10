@@ -329,6 +329,14 @@ members:
             email: arshadr@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Angela Tran
+        github:
+            username: angelaniatran
+            role: member
+        mailgun:
+            email: ahytran@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
