@@ -329,7 +329,7 @@ members:
             email: arshadr@bu.edu
             routes:
                 - contact@bostonhacks.io
-        name: Angela Tran
+    -   name: Angela Tran
         github:
             username: angelaniatran
             role: member
