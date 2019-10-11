@@ -233,7 +233,7 @@ members:
                 - sponsor@bostonhacks.io
     -   name: Xavier Ruiz
         github:
-            username: xavierrocks
+            username: xav-ie
             role: member
         mailgun:
             email: xruiz@bu.edu
