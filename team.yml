@@ -179,7 +179,7 @@ members:
             email: mlin2022@bu.edu
             routes:
                 - contact@bostonhacks.io
-                -   mail@bostonhacks.io
+                - mail@bostonhacks.io
     -   name: Jennifer Roh
         github:
             username: smroh17
