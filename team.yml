@@ -238,8 +238,8 @@ members:
                 - contact@bostonhacks.io
     -   name: Rishab Nayak	
         github:
-            username: rishab2113
-            role: member
+            username: rishabnayaks
+            role: admin
         mailgun:
             email: rishab@bu.edu
             routes:
