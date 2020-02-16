@@ -331,6 +331,14 @@ members:
             email: ahytran@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Hany Jasmine
+        github:
+            username: hanyjasmine
+            role: member
+        mailgun:
+            email: hjasmine@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
