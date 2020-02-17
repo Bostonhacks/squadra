@@ -347,6 +347,14 @@ members:
             email: hjasmine@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Shimli Satpathy
+        github:
+            username: shimlis
+            role: member
+        mailgun:
+            email: shimli@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
