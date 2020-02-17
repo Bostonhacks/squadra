@@ -259,8 +259,8 @@ members:
                 - contact@bostonhacks.io
     -   name: Rishab Nayak
         github:
-            username: rishab2113
-            role: member
+            username: rishabnayak
+            role: admin
         mailgun:
             email: rishab@bu.edu
             routes:
@@ -329,6 +329,14 @@ members:
             role: member
         mailgun:
             email: ahytran@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Claire Choi
+        github:
+            username: jy-clairechoi
+            role: member
+        mailgun:
+            email: jycchoi@bu.edu
             routes:
                 - contact@bostonhacks.io
 mailgun:
