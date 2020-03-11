@@ -355,6 +355,14 @@ members:
             email: shimli@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Hannah Huang
+        github:
+            username: Yunhan0816
+            role: member
+        mailgun:
+            email: yunhanh@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
