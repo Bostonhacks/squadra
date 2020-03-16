@@ -363,7 +363,7 @@ members:
             email: yunhanh@bu.edu
             routes:
                 - contact@bostonhacks.io
-     -   name: Jane Feng
+     -  name: Jane Feng
         github:
             username: jfeng5529
             role: member
