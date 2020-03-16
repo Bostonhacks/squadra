@@ -369,6 +369,12 @@ members:
             role: member
         mailgun:
             email: vivianac@bu.edu
+    -   name: John Chai
+        github:
+            username: ychai23
+            role: member
+        mailgun:
+            email: jchai23@bu.edu
             routes:
                 - contact@bostonhacks.io
 mailgun:
