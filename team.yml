@@ -363,7 +363,7 @@ members:
             email: yunhanh@bu.edu
             routes:
                 - contact@bostonhacks.io
-     -   name: Vivian Cheung
+    -   name: Vivian Cheung
         github:
             username: vivianacheung
             role: member
