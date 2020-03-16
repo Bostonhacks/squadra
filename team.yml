@@ -363,6 +363,14 @@ members:
             email: yunhanh@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Jason Kim
+        github:
+            username: officialjasonkim
+            role: member
+        mailgun:
+            email: jasonk@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
