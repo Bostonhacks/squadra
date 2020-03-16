@@ -363,6 +363,14 @@ members:
             email: yunhanh@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Hannah Hong
+        github:
+            username: hyhong27
+            role: member
+        mailgun:
+            email: hyhong@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
