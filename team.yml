@@ -434,7 +434,15 @@ members:
         mailgun:
             email: adong868@bu.edu
             routes:
-                - contact@bostonhacks.io                
+                - contact@bostonhacks.io     
+    -   name: Evelyn Bi
+        github:
+            username: evelynbi
+            role: member
+        mailgun:
+            email: evelynbi@bu.edu
+            routes:
+                - contact@bostonhacks.io           
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
