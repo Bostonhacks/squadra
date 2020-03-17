@@ -427,6 +427,14 @@ members:
             email: jeffhsu@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Angela Dong
+        github:
+            username: adong868
+            role: member
+        mailgun:
+            email: adong868@bu.edu
+            routes:
+                - contact@bostonhacks.io                
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
