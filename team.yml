@@ -363,6 +363,14 @@ members:
             email: yunhanh@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Vivian Cheung
+        github:
+            username: vivianacheung
+            role: member
+        mailgun:
+            email: vivianac@bu.edu
+            routes:
+                - contact@bostonhacks.io
     -   name: Jason Kim
         github:
             username: officialjasonkim
