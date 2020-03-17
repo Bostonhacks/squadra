@@ -369,6 +369,8 @@ members:
             role: member
         mailgun:
             email: jasonk@bu.edu
+            routes:
+                - contact@bostonhacks.io
     -   name: John Chai
         github:
             username: ychai23
