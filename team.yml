@@ -371,6 +371,22 @@ members:
             email: hyhong@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: John Chai
+        github:
+            username: ychai23
+            role: member
+        mailgun:
+            email: jchai23@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Jeffrey Hsu
+        github:
+            username: jeffreyhsu01
+            role: member
+        mailgun:
+            email: jeffhsu@bu.edu
+            routes:
+                - contact@bostonhacks.io
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
