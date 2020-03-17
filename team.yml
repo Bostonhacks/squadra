@@ -438,7 +438,7 @@ members:
     -   name: Evelyn Bi
         github:
             username: evelynbi
-            role：member
+            role: member
         mailgun:
             email: evelynbi@bu.edu
             routes:
