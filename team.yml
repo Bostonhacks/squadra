@@ -363,6 +363,14 @@ members:
             email: yunhanh@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Jane Feng
+        github:
+            username: jfeng5529
+            role: member
+        mailgun:
+            email: jyfeng@bu.edu
+            routes:
+                - contact@bostonhacks.io
     -   name: Vivian Cheung
         github:
             username: vivianacheung
