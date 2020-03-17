@@ -371,6 +371,22 @@ members:
             email: hyhong@bu.edu
             routes:
                 - contact@bostonhacks.io
+    -   name: Jordan Nichols
+        github:
+            username: jordanenichols
+            role: member
+        mailgun:
+            email: jordanen@bu.edu
+            routes:
+                - contact@bostonhacks.io
+    -   name: Rebecca Chang
+        github:
+            username: beccachang
+            role: member
+        mailgun:
+            email: rtchang@bu.edu
+            routes:
+                - contact@bostonhacks.io
     -   name: John Chai
         github:
             username: ychai23
