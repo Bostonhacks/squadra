@@ -443,6 +443,14 @@ members:
             email: evelynbi@bu.edu
             routes:
                 - contact@bostonhacks.io           
+    -   name: Bingyi Zeng
+        github:
+            username: bzeng41
+            role: member
+        mailgun:
+            email: bzeng41@bu.edu
+            routes:
+                - contact@bostonhacks.io                 
 mailgun:
     routes:
         -   name: contact@bostonhacks.io
