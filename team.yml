@@ -265,6 +265,7 @@ members:
             email: rishab@bu.edu
             routes:
                 - contact@bostonhacks.io
+                - mail@bostonhacks.io
     -   name: Asif Rahman
         github:
             username: asifrahman479
