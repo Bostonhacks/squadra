@@ -8,7 +8,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Alicja Wisniowska
     github:
       username: alicjaw
@@ -18,7 +17,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Angela Dong
     github:
       username: adong868
@@ -28,7 +26,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Angela Tran
     github:
       username: angelaniatran
@@ -38,7 +35,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: marketing
   - name: Asif Rahman
     github:
       username: asifrahman479
@@ -50,7 +46,6 @@ members:
         - mail@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
-    team: tech
   - name: Austin Negron
     github:
       username: austinnegron
@@ -60,7 +55,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: sponsorship
   - name: Ben Lague
     github:
       username: benlague
@@ -71,7 +65,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: inactive
-    team: none
   - name: Bingyi Zeng
     github:
       username: bzeng41
@@ -81,7 +74,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Blake Abel
     github:
       username: blabel3
@@ -91,7 +83,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: logistics
   - name: Charles Ma
     github:
       username: charlesma4
@@ -102,7 +93,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
-    team: tech
   - name: Chinwe Oparaji
     github:
       username: bianca-sparxs
@@ -112,7 +102,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Chris Chang
     github:
       username: cpchang11
@@ -122,7 +111,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Claire Choi
     github:
       username: jy-clairechoi
@@ -132,7 +120,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: tech
   - name: Evelyn Bi
     github:
       username: evelynbi
@@ -142,7 +129,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Gabriella Roman
     github:
       username: gabriellasroman
@@ -152,7 +138,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Grace Colbert
     github:
       username: gracejpeg
@@ -162,7 +147,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Hannah Hong
     github:
       username: hyhong27
@@ -172,7 +156,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Hannah Huang
     github:
       username: Yunhan0816
@@ -182,7 +165,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Hany Jasmine
     github:
       username: hanyjasmine
@@ -192,7 +174,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Jane Feng
     github:
       username: jfeng5529
@@ -202,7 +183,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Jason Cho
     github:
       username: jjuncho
@@ -212,7 +192,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Jason Kim
     github:
       username: officialjasonkim
@@ -222,7 +201,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Jason Li
     github:
       username: jli12
@@ -232,7 +210,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: logistics
   - name: Jeffrey Hsu
     github:
       username: jeffreyhsu01
@@ -242,7 +219,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Jennifer Kim
     github:
       username: jennkimerson
@@ -253,7 +229,6 @@ members:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
     status: active
-    team: marketing
   - name: Jennifer Roh
     github:
       username: smroh17
@@ -263,7 +238,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Jin Young Bang
     github:
       username: jinyoungbang
@@ -273,7 +247,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: tech
   - name: John Chai
     github:
       username: ychai23
@@ -283,7 +256,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Jordan Nichols
     github:
       username: jordanenichols
@@ -293,7 +265,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Joyce Hu
     github:
       username: jooyce
@@ -303,7 +274,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Ken Garber
     github:
       username: keng98
@@ -314,7 +284,6 @@ members:
         - contact@bostonhacks.io
         - dfp@bostonhacks.io
     status: inactive
-    team: none
   - name: Lisa Vu
     github:
       username: lisaqvu
@@ -325,10 +294,8 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: inactive
-    team: none
   - name: Lucas Watson
     status: inactive
-    team: none
     github:
       username: lkwatson
       role: admin
@@ -350,7 +317,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Melissa Lin
     github:
       username: melyxlin
@@ -361,7 +327,6 @@ members:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
     status: active
-    team: marketing
   - name: Michael Hendrick
     github:
       username: mhendrick98
@@ -371,7 +336,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: tech
   - name: Nam Pham
     github:
       username: nampham148
@@ -381,7 +345,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Nikita Jakkam
     github:
       username: nikitajakkam
@@ -392,7 +355,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
-    team: sponsorship
   - name: Noah Naiman
     github:
       username: NoahNaiman
@@ -404,7 +366,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: inactive
-    team: none
   - name: Prim Promchotichai
     github:
       username: primnp
@@ -414,7 +375,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Ramsha Arshad
     github:
       username: ramshaarshad
@@ -424,7 +384,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Rebecca Chang
     github:
       username: beccachang
@@ -434,7 +393,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Rishab Nayak
     github:
       username: rishabnayak
@@ -445,7 +403,6 @@ members:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
     status: active
-    team: none
   - name: Roger Ramesh
     github:
       username: rogerramesh
@@ -456,7 +413,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
-    team: sponsorship
   - name: Rudhra Raveendran
     github:
       username: ROODAY
@@ -466,7 +422,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: tech
   - name: Sarah Greisdorf
     github:
       username: sarahgreisdorf
@@ -477,7 +432,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: inactive
-    team: none
   - name: Sarah Rieger
     github:
       username: sarah256
@@ -487,7 +441,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Shimli Satpathy
     github:
       username: shimlis
@@ -497,7 +450,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: sponsorship
   - name: Sid Premkumar
     github:
       username: sidpremkumar
@@ -508,7 +460,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: inactive
-    team: none
   - name: Tin Nguyen
     github:
       username: tintheturtle
@@ -518,7 +469,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: logistics
   - name: Victoria Kayola
     github:
       username: victoriakayola
@@ -528,7 +478,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Vivian Cheung
     github:
       username: vivianacheung
@@ -538,7 +487,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: none
   - name: Warren Partridge
     github:
       username: Warren-Partridge
@@ -548,7 +496,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-    team: none
   - name: Xavier Ruiz
     github:
       username: xav-ie
@@ -558,7 +505,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-    team: tech
 mailgun:
   routes:
     - name: contact@bostonhacks.io
