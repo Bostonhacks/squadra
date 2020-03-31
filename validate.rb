@@ -5,7 +5,7 @@ puts "~~~ Validating team.yml ~~~"
 
 members = config['members']
 routes = config['routes']
-routes.map! { |route| route.name }
+routes.map! { |route| route['name'] }
 
 members.each do |member|
   # TODO: make sure github user actually exists
