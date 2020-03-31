@@ -110,7 +110,7 @@ members:
       email: changc21@bu.edu
       routes:
         - contact@bostonhacks.io
-    status: inactive
+    status: active
   - name: Claire Choi
     github:
       username: jy-clairechoi
