@@ -169,7 +169,7 @@ members:
       email: yunhanh@bu.edu
       routes:
         - contact@bostonhacks.io
-    status: inactive
+    status: active
   - name: Hany Jasmine
     github:
       username: hanyjasmine
