@@ -5,11 +5,13 @@ require 'googleauth/stores/file_token_store'
 require './drive_token_store.rb'
 
 # team_emails = set of emails to be granted access
-team_info = YAML.load_file("team.yml")
-team_emails = Set.new
+config = YAML.load_file('team.yml')
+members = config['members']
+members.select! { |member| member['status'] == 'active' }
 
-team_info["members"].each do |entry|
-  email = entry["sendgrid"]["email"]
+team_emails = Set.new
+members.each do |member|
+  email = member["sendgrid"]["email"]
   team_emails.add(email)
 end
 

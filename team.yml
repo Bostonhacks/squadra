@@ -310,7 +310,7 @@ members:
     sendgrid:
       email: lkwatson@bu.edu
       routes:
-        - alum@bostonhacks.io
+        - alumni@bostonhacks.io
   - name: Mariana Garces Dematte
     github:
       username: maridematte
@@ -519,8 +519,8 @@ routes:
   - name: contact@bostonhacks.io
     formatted: BostonHacks [Contact] <contact@bostonhacks.io>
     description: General catch-all bostonhacks emails
-  - name: alum@bostonhacks.io
-    formatted: BostonHacks [Alumni] <alum@bostonhacks.io>
+  - name: alumni@bostonhacks.io
+    formatted: BostonHacks [Alumni] <alumni@bostonhacks.io>
     description: Active alumni mailing list
   - name: mail@bostonhacks.io
     formatted: BostonHacks [Mailchimp] <mail@bostonhacks.io>
