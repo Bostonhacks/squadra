@@ -178,6 +178,7 @@ members:
       email: hjasmine@bu.edu
       routes:
         - contact@bostonhacks.io
+        - marketing@bostonhacks.io
     status: active
   - name: Jane Feng
     github:
