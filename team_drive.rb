@@ -9,7 +9,7 @@ team_info = YAML.load_file("team.yml")
 team_emails = Set.new
 
 team_info["members"].each do |entry|
-  email = entry["mailgun"]["email"]
+  email = entry["sendgrid"]["email"]
   team_emails.add(email)
 end
 
