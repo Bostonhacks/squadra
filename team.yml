@@ -3,7 +3,7 @@ members:
     github:
       username: alexfarra
       role: member
-    mailgun:
+    sendgrid:
       email: afarra@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -12,7 +12,7 @@ members:
     github:
       username: alicjaw
       role: member
-    mailgun:
+    sendgrid:
       email: alicjaw@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -21,7 +21,7 @@ members:
     github:
       username: adong868
       role: member
-    mailgun:
+    sendgrid:
       email: adong868@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -30,7 +30,7 @@ members:
     github:
       username: angelaniatran
       role: member
-    mailgun:
+    sendgrid:
       email: ahytran@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -39,7 +39,7 @@ members:
     github:
       username: asifrahman479
       role: member
-    mailgun:
+    sendgrid:
       email: rasif@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -50,7 +50,7 @@ members:
     github:
       username: austinnegron
       role: member
-    mailgun:
+    sendgrid:
       email: negrona@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -59,7 +59,7 @@ members:
     github:
       username: benlague
       role: member
-    mailgun:
+    sendgrid:
       email: benlague@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -69,7 +69,7 @@ members:
     github:
       username: bzeng41
       role: member
-    mailgun:
+    sendgrid:
       email: bzeng41@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -78,7 +78,7 @@ members:
     github:
       username: blabel3
       role: member
-    mailgun:
+    sendgrid:
       email: blabel@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -87,7 +87,7 @@ members:
     github:
       username: charlesma4
       role: member
-    mailgun:
+    sendgrid:
       email: cma4@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -97,7 +97,7 @@ members:
     github:
       username: bianca-sparxs
       role: member
-    mailgun:
+    sendgrid:
       email: sparxs@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -106,7 +106,7 @@ members:
     github:
       username: cpchang11
       role: member
-    mailgun:
+    sendgrid:
       email: changc21@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -115,7 +115,7 @@ members:
     github:
       username: jy-clairechoi
       role: member
-    mailgun:
+    sendgrid:
       email: jycchoi@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -124,7 +124,7 @@ members:
     github:
       username: evelynbi
       role: member
-    mailgun:
+    sendgrid:
       email: evelynbi@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -133,7 +133,7 @@ members:
     github:
       username: gabriellasroman
       role: member
-    mailgun:
+    sendgrid:
       email: gsroman@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -142,7 +142,7 @@ members:
     github:
       username: gracejpeg
       role: member
-    mailgun:
+    sendgrid:
       email: gcolbert@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -151,7 +151,7 @@ members:
     github:
       username: hyhong27
       role: member
-    mailgun:
+    sendgrid:
       email: hyhong@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -160,7 +160,7 @@ members:
     github:
       username: Yunhan0816
       role: member
-    mailgun:
+    sendgrid:
       email: yunhanh@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -169,7 +169,7 @@ members:
     github:
       username: hanyjasmine
       role: member
-    mailgun:
+    sendgrid:
       email: hjasmine@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -178,7 +178,7 @@ members:
     github:
       username: jfeng5529
       role: member
-    mailgun:
+    sendgrid:
       email: jyfeng@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -187,7 +187,7 @@ members:
     github:
       username: jjuncho
       role: member
-    mailgun:
+    sendgrid:
       email: jjuncho@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -196,7 +196,7 @@ members:
     github:
       username: officialjasonkim
       role: member
-    mailgun:
+    sendgrid:
       email: jasonk@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -205,7 +205,7 @@ members:
     github:
       username: jli12
       role: member
-    mailgun:
+    sendgrid:
       email: jfli@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -214,7 +214,7 @@ members:
     github:
       username: jeffreyhsu01
       role: member
-    mailgun:
+    sendgrid:
       email: jeffhsu@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -223,7 +223,7 @@ members:
     github:
       username: jennkimerson
       role: member
-    mailgun:
+    sendgrid:
       email: jenkim@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -233,7 +233,7 @@ members:
     github:
       username: smroh17
       role: member
-    mailgun:
+    sendgrid:
       email: smroh17@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -242,7 +242,7 @@ members:
     github:
       username: jinyoungbang
       role: member
-    mailgun:
+    sendgrid:
       email: jybang@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -251,7 +251,7 @@ members:
     github:
       username: ychai23
       role: member
-    mailgun:
+    sendgrid:
       email: jchai23@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -260,7 +260,7 @@ members:
     github:
       username: jordanenichols
       role: member
-    mailgun:
+    sendgrid:
       email: jordanen@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -269,7 +269,7 @@ members:
     github:
       username: jooyce
       role: member
-    mailgun:
+    sendgrid:
       email: joycehu@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -278,7 +278,7 @@ members:
     github:
       username: keng98
       role: admin
-    mailgun:
+    sendgrid:
       email: kgarber@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -288,7 +288,7 @@ members:
     github:
       username: lisaqvu
       role: member
-    mailgun:
+    sendgrid:
       email: lisaqv@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -299,7 +299,7 @@ members:
     github:
       username: lkwatson
       role: admin
-    mailgun:
+    sendgrid:
       email: lkwatson@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -312,7 +312,7 @@ members:
     github:
       username: maridematte
       role: admin
-    mailgun:
+    sendgrid:
       email: mdematte@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -321,7 +321,7 @@ members:
     github:
       username: melyxlin
       role: member
-    mailgun:
+    sendgrid:
       email: mlin2022@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -331,7 +331,7 @@ members:
     github:
       username: mhendrick98
       role: admin
-    mailgun:
+    sendgrid:
       email: mhendric@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -340,7 +340,7 @@ members:
     github:
       username: nampham148
       role: member
-    mailgun:
+    sendgrid:
       email: nampham@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -349,7 +349,7 @@ members:
     github:
       username: nikitajakkam
       role: member
-    mailgun:
+    sendgrid:
       email: njakkam@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -359,7 +359,7 @@ members:
     github:
       username: NoahNaiman
       role: member
-    mailgun:
+    sendgrid:
       email: nnaiman@bu.edu
       routes:
         - dfp@bostonhacks.io
@@ -370,7 +370,7 @@ members:
     github:
       username: primnp
       role: member
-    mailgun:
+    sendgrid:
       email: pnuwapa@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -379,7 +379,7 @@ members:
     github:
       username: ramshaarshad
       role: member
-    mailgun:
+    sendgrid:
       email: arshadr@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -388,7 +388,7 @@ members:
     github:
       username: beccachang
       role: member
-    mailgun:
+    sendgrid:
       email: rtchang@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -397,7 +397,7 @@ members:
     github:
       username: rishabnayak
       role: admin
-    mailgun:
+    sendgrid:
       email: rishab@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -407,7 +407,7 @@ members:
     github:
       username: rogerramesh
       role: member
-    mailgun:
+    sendgrid:
       email: rmramesh@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -417,7 +417,7 @@ members:
     github:
       username: ROODAY
       role: member
-    mailgun:
+    sendgrid:
       email: rooday@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -426,17 +426,17 @@ members:
     github:
       username: sarahgreisdorf
       role: admin
-    mailgun:
+    sendgrid:
       email: sarah21@bu.edu
       routes:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
-    status: inactive
+    status: active
   - name: Sarah Rieger
     github:
       username: sarah256
       role: member
-    mailgun:
+    sendgrid:
       email: srieger@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -445,7 +445,7 @@ members:
     github:
       username: shimlis
       role: member
-    mailgun:
+    sendgrid:
       email: shimli@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -454,7 +454,7 @@ members:
     github:
       username: sidpremkumar
       role: member
-    mailgun:
+    sendgrid:
       email: sidprem@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -464,7 +464,7 @@ members:
     github:
       username: tintheturtle
       role: member
-    mailgun:
+    sendgrid:
       email: tinhoang@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -473,7 +473,7 @@ members:
     github:
       username: victoriakayola
       role: member
-    mailgun:
+    sendgrid:
       email: vkayola@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -482,7 +482,7 @@ members:
     github:
       username: vivianacheung
       role: member
-    mailgun:
+    sendgrid:
       email: vivianac@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -491,7 +491,7 @@ members:
     github:
       username: Warren-Partridge
       role: member
-    mailgun:
+    sendgrid:
       email: wpartrid@bu.edu
       routes:
         - contact@bostonhacks.io
@@ -500,28 +500,21 @@ members:
     github:
       username: xav-ie
       role: member
-    mailgun:
+    sendgrid:
       email: xruiz@bu.edu
       routes:
         - contact@bostonhacks.io
     status: active
-mailgun:
-  routes:
-    - name: contact@bostonhacks.io
-      description: General catch-all bostonhacks emails
-      priority: 10
-    - name: mail@bostonhacks.io
-      description: 'Mail, used for mailchimp login'
-      priority: 6
-    - name: resumes@bostonhacks.io
-      description: Resumes for bostonhacks applicants
-      priority: 0
-    - name: records@bostonhacks.io
-      description: Receipts and record emails
-      priority: 0
-    - name: dfp@bostonhacks.io
-      description: Daily Free Press Team
-      priority: 5
-    - name: sponsor@bostonhacks.io
-      description: Sponsor Team
-      priority: 5
+routes:
+  - name: contact@bostonhacks.io
+    description: General catch-all bostonhacks emails
+  - name: mail@bostonhacks.io
+    description: 'Mail, used for mailchimp login'
+  - name: resumes@bostonhacks.io
+    description: Resumes for bostonhacks applicants
+  - name: records@bostonhacks.io
+    description: Receipts and record emails
+  - name: dfp@bostonhacks.io
+    description: Daily Free Press Team
+  - name: sponsor@bostonhacks.io
+    description: Sponsor Team
