@@ -8,7 +8,7 @@ routes = config['routes']
 routes.map! { |route| route['name'] }
 
 members.each do |member|
-	raise "Missing name for user: #{member['name']}" if member['name'].nil?
+	raise "User is missing name" if member['name'].nil?
   raise "Missing status for user: #{member['name']}" if member['status'].nil?
 	
   # TODO: make sure github user actually exists
