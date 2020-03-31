@@ -34,6 +34,7 @@ members:
       email: ahytran@bu.edu
       routes:
         - contact@bostonhacks.io
+        - marketing@bostonhacks.io
     status: active
   - name: Asif Rahman
     github:
@@ -44,7 +45,7 @@ members:
       routes:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
-        - sponsor@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Austin Negron
     github:
@@ -54,6 +55,7 @@ members:
       email: negrona@bu.edu
       routes:
         - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
     status: inactive
   - name: Ben Lague
     github:
@@ -82,6 +84,7 @@ members:
       email: blabel@bu.edu
       routes:
         - contact@bostonhacks.io
+        - logistics@bostonhacks.io
     status: inactive
   - name: Charles Ma
     github:
@@ -91,7 +94,7 @@ members:
       email: cma4@bu.edu
       routes:
         - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
+        - logistics@bostonhacks.io
     status: active
   - name: Chinwe Oparaji
     github:
@@ -110,6 +113,7 @@ members:
       email: changc21@bu.edu
       routes:
         - contact@bostonhacks.io
+        - logistics@bostonhacks.io
     status: active
   - name: Claire Choi
     github:
@@ -119,6 +123,7 @@ members:
       email: jycchoi@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Evelyn Bi
     github:
@@ -209,6 +214,7 @@ members:
       email: jfli@bu.edu
       routes:
         - contact@bostonhacks.io
+        - logistics@bostonhacks.io
     status: active
   - name: Jeffrey Hsu
     github:
@@ -228,6 +234,7 @@ members:
       routes:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
+        - marketing@bostonhacks.io
     status: active
   - name: Jennifer Roh
     github:
@@ -246,6 +253,7 @@ members:
       email: jybang@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: inactive
   - name: John Chai
     github:
@@ -295,19 +303,14 @@ members:
         - sponsor@bostonhacks.io
     status: inactive
   - name: Lucas Watson
-    status: inactive
+    status: alum
     github:
       username: lkwatson
       role: admin
     sendgrid:
       email: lkwatson@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - resumes@bostonhacks.io
-        - records@bostonhacks.io
-        - dfp@bostonhacks.io
-        - mail@bostonhacks.io
-        - sponsor@bostonhacks.io
+        - alum@bostonhacks.io
   - name: Mariana Garces Dematte
     github:
       username: maridematte
@@ -326,6 +329,7 @@ members:
       routes:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
+        - marketing@bostonhacks.io
     status: active
   - name: Michael Hendrick
     github:
@@ -335,6 +339,7 @@ members:
       email: mhendric@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Nam Pham
     github:
@@ -402,6 +407,7 @@ members:
       routes:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Roger Ramesh
     github:
@@ -421,6 +427,7 @@ members:
       email: rooday@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Sarah Greisdorf
     github:
@@ -449,6 +456,7 @@ members:
       email: shimli@bu.edu
       routes:
         - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
     status: active
   - name: Sid Premkumar
     github:
@@ -468,6 +476,7 @@ members:
       email: tinhoang@bu.edu
       routes:
         - contact@bostonhacks.io
+        - logistics@bostonhacks.io
     status: active
   - name: Victoria Kayola
     github:
@@ -504,6 +513,7 @@ members:
       email: xruiz@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
 routes:
   - name: contact@bostonhacks.io
@@ -517,4 +527,10 @@ routes:
   - name: dfp@bostonhacks.io
     description: Daily Free Press Team
   - name: sponsor@bostonhacks.io
-    description: Sponsor Team
+    description: Sponsorship Team
+  - name: tech@bostonhacks.io
+    description: Technology Team
+  - name: logistics@bostonhacks.io
+    description: Logistics Team
+  - name: marketing@bostonhacks.io
+    description: Marketing Team
