@@ -517,22 +517,32 @@ members:
     status: active
 routes:
   - name: contact@bostonhacks.io
+    formatted: BostonHacks [Contact] <contact@bostonhacks.io>
     description: General catch-all bostonhacks emails
   - name: alum@bostonhacks.io
+    formatted: BostonHacks [Alumni] <alum@bostonhacks.io>
     description: Active alumni mailing list
   - name: mail@bostonhacks.io
+    formatted: BostonHacks [Mailchimp] <mail@bostonhacks.io>
     description: 'Mail, used for mailchimp login'
   - name: resumes@bostonhacks.io
+    formatted: BostonHacks [Resumes] <resumes@bostonhacks.io>
     description: Resumes for bostonhacks applicants
   - name: records@bostonhacks.io
+    formatted: BostonHacks [Records] <records@bostonhacks.io>
     description: Receipts and record emails
   - name: dfp@bostonhacks.io
+    formatted: BostonHacks [DFP] <dfp@bostonhacks.io>
     description: Daily Free Press Team
   - name: sponsor@bostonhacks.io
+    formatted: BostonHacks [Sponsor] <sponsor@bostonhacks.io>
     description: Sponsorship Team
   - name: tech@bostonhacks.io
+    formatted: BostonHacks [Tech] <tech@bostonhacks.io>
     description: Technology Team
   - name: logistics@bostonhacks.io
+    formatted: BostonHacks [Logistics] <logistics@bostonhacks.io>
     description: Logistics Team
   - name: marketing@bostonhacks.io
+    formatted: BostonHacks [Marketing] <marketing@bostonhacks.io>
     description: Marketing Team
