@@ -7,7 +7,7 @@ require './drive_token_store.rb'
 # team_emails = set of emails to be granted access
 config = YAML.load_file('team.yml')
 members = config['members']
-members.select! { |member| member['status'] == 'active' }
+# members.select! { |member| member['status'] == 'active' }
 
 team_emails = Set.new
 members.each do |member|
