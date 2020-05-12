@@ -1,4 +1,13 @@
 members:
+  - name: Alex Doval
+    github:
+      username: adoval12
+      role: member
+    sendgrid:
+      email: adoval@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Alex Farra
     github:
       username: alexfarra
