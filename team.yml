@@ -545,12 +545,6 @@ mailgun:
     - name: mail@bostonhacks.io
       formatted: BostonHacks [Mailchimp] <mail@bostonhacks.io>
       description: 'Mail, used for mailchimp login'
-    - name: resumes@bostonhacks.io
-      formatted: BostonHacks [Resumes] <resumes@bostonhacks.io>
-      description: Resumes for bostonhacks applicants
-    - name: records@bostonhacks.io
-      formatted: BostonHacks [Records] <records@bostonhacks.io>
-      description: Receipts and record emails
     - name: dfp@bostonhacks.io
       formatted: BostonHacks [DFP] <dfp@bostonhacks.io>
       description: Daily Free Press Team
