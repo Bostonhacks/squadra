@@ -4,7 +4,7 @@ config = YAML.load_file('team.yml')
 puts "~~~ Validating team.yml ~~~"
 
 members = config['members']
-routes = config['routes']
+routes = config['mailgun']['routes']
 routes.map! { |route| route['name'] }
 
 members.each do |member|
