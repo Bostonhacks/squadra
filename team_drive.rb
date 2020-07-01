@@ -11,7 +11,7 @@ members = config['members']
 
 team_emails = Set.new
 members.each do |member|
-  email = member["sendgrid"]["email"]
+  email = member["mailgun"]["email"]
   team_emails.add(email)
 end
 
