@@ -1,4 +1,13 @@
 members:
+  - name: Alex Doval
+    github:
+      username: adoval12
+      role: member
+    sendgrid:
+      email: adoval@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Alex Farra
     github:
       username: alexfarra
@@ -125,6 +134,15 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: Emily Bowen
+    github:
+      username: embowen
+      role: member
+    sendgrid:
+      email: embowen@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active    
   - name: Evelyn Bi
     github:
       username: evelynbi

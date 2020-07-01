@@ -7,7 +7,7 @@ require './drive_token_store.rb'
 # team_emails = set of emails to be granted access
 config = YAML.load_file('team.yml')
 members = config['members']
-members.select! { |member| member['status'] == 'active' }
+# members.select! { |member| member['status'] == 'active' }
 
 team_emails = Set.new
 members.each do |member|
@@ -22,9 +22,9 @@ OOB_URI = 'urn:ietf:wg:oauth:2.0:oob'
 scope = 'https://www.googleapis.com/auth/drive'
 client_id = Google::Auth::ClientId.new(ENV['GOOGLE_CLIENT_ID'], ENV['GOOGLE_CLIENT_SECRETS'])
 # can't use FileTokenStore because CircleCI doesn't store files, implemented our own
-token_store = Google::Auth::Stores::FileTokenStore.new(
-  :file => './tokens.yaml')
-# token_store = DriveTokenStore.new()
+# token_store = Google::Auth::Stores::FileTokenStore.new(
+#   :file => './tokens.yaml')
+token_store = DriveTokenStore.new()
 
 authorizer = Google::Auth::UserAuthorizer.new(client_id, scope, token_store)
 

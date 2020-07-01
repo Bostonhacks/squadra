@@ -6,7 +6,7 @@ puts '~~~ Starting github team update ~~~'
 # load the team.yml file and get the members from it
 config = YAML.load_file('team.yml')
 members = config['members']
-members.select! { |member| member['status'] == 'active' }
+# members.select! { |member| member['status'] == 'active' }
 
 # get the new permissions for the members from the file
 new_permissions = {}
