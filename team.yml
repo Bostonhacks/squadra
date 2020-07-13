@@ -456,7 +456,6 @@ members:
       email: sarah21@bu.edu
       routes:
         - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
     status: active
   - name: Sarah Rieger
     github:
