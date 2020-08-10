@@ -263,6 +263,7 @@ members:
       email: smroh17@bu.edu
       routes:
         - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
     status: active
   - name: Jin Young Bang
     github:
