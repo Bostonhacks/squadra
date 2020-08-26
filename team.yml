@@ -446,8 +446,7 @@ members:
     mailgun:
       email: rooday@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - tech@bostonhacks.io
+        - alumni@bostonhacks.io
     status: active
   - name: Sarah Greisdorf
     github:
