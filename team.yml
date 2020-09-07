@@ -505,6 +505,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
+  - name: Vitor Vicente
+    github:
+      username: vitorvicente
+      role: member
+    mailgun:
+      email: vitor@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Vivian Cheung
     github:
       username: vivianacheung
