@@ -447,7 +447,7 @@ members:
       email: rooday@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Sarah Greisdorf
     github:
       username: sarahgreisdorf
@@ -483,8 +483,7 @@ members:
     mailgun:
       email: sidprem@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Tin Nguyen
     github:
