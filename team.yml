@@ -16,7 +16,7 @@ members:
       email: afarra@bu.edu
       routes:
         - contact@bostonhacks.io
-    status: inactive
+    status: active
   - name: Alicja Wisniowska
     github:
       username: alicjaw
@@ -24,8 +24,8 @@ members:
     mailgun:
       email: alicjaw@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: inactive
+        - alumni@bostonhacks.io
+    status: active
   - name: Angela Dong
     github:
       username: adong868
