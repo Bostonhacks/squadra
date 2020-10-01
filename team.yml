@@ -142,15 +142,6 @@ members:
       email: embowen@bu.edu
       routes:
         - contact@bostonhacks.io
-    status: active    
-  - name: Evelyn Bi
-    github:
-      username: evelynbi
-      role: member
-    mailgun:
-      email: evelynbi@bu.edu
-      routes:
-        - contact@bostonhacks.io
     status: active
   - name: Gabriella Roman
     github:
