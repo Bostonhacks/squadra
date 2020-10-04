@@ -457,6 +457,14 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
+  - name: Sharon Zou
+    github:
+      username: szou00
+      role: member
+    mailgun:
+      email: szou00@bu.edu
+      routes:
+       - contact@bostonhacks.io 
   - name: Shimli Satpathy
     github:
       username: shimlis
