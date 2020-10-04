@@ -465,6 +465,7 @@ members:
       email: szou00@bu.edu
       routes:
         - contact@bostonhacks.io 
+    status: active
   - name: Shimli Satpathy
     github:
       username: shimlis
