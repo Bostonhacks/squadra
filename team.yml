@@ -464,7 +464,7 @@ members:
     mailgun:
       email: szou00@bu.edu
       routes:
-       - contact@bostonhacks.io 
+        - contact@bostonhacks.io 
   - name: Shimli Satpathy
     github:
       username: shimlis
