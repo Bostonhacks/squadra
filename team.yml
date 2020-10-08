@@ -134,6 +134,15 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: Daniel Gonzalez
+    github:
+      username: dagon8
+      role: member
+    mailgun:
+      email: dagon@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Emily Bowen
     github:
       username: embowen
