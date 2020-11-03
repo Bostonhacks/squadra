@@ -532,7 +532,7 @@ members:
     status: active
   - name: Warren Partridge
     github:
-      username: Warren-Partridge
+      username: warren
       role: member
     mailgun:
       email: wpartrid@bu.edu
