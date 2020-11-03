@@ -354,12 +354,11 @@ members:
   - name: Michael Hendrick
     github:
       username: mhendrick98
-      role: admin
+      role: member
     mailgun:
       email: mhendric@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - tech@bostonhacks.io
+        - alumni@bostonhacks.io
     status: active
   - name: Nam Pham
     github:
