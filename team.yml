@@ -537,7 +537,7 @@ members:
     mailgun:
       email: wpartrid@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Xavier Ruiz
     github:
