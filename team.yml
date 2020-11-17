@@ -214,7 +214,7 @@ members:
     mailgun:
       email: jjuncho@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Jason Kim
     github:
@@ -406,7 +406,7 @@ members:
     mailgun:
       email: arshadr@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Rebecca Chang
     github:
@@ -454,7 +454,7 @@ members:
     mailgun:
       email: sarah21@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: active
   - name: Sarah Rieger
     github:
