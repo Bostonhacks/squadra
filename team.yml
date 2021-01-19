@@ -159,7 +159,7 @@ members:
     mailgun:
       email: gsroman@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Grace Colbert
     github:
