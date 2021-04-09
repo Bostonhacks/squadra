@@ -16,7 +16,7 @@ members:
       email: afarra@bu.edu
       routes:
         - contact@bostonhacks.io
-    status: active
+    status: inactive
   - name: Alicja Wisniowska
     github:
       username: alicjaw
