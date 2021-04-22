@@ -257,7 +257,7 @@ members:
   - name: Jennifer Kim
     github:
       username: jennkimerson
-      role: member
+      role: admin
     mailgun:
       email: jenkim@bu.edu
       routes:
@@ -297,7 +297,7 @@ members:
   - name: Jordan Nichols
     github:
       username: jordanenichols
-      role: member
+      role: admin
     mailgun:
       email: jordanen@bu.edu
       routes:
