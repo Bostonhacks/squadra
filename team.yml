@@ -576,6 +576,7 @@ members:
       email: ngvananh@bu.edu
       routes:
         - contact@bostonhacks.io
+        - marketing@bostonhacks.io
     status: active
   - name: Christian Mark
     github:
