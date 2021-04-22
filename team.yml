@@ -549,6 +549,14 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: Colette Li
+    github:
+      username: coletteli
+      role: member
+    mailgun:
+      email: ruojiali@bu.edu
+      routes:
+        - sponsor@bostonhacks.io
 mailgun:
   routes:
     - name: contact@bostonhacks.io
