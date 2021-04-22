@@ -568,6 +568,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Colette Li
+    github:
+      username: coletteli
+      role: member
+    mailgun:
+      email: ruojiali@Bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Christian Mark
     github:
       username: christiantmark
