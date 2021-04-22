@@ -549,6 +549,15 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: David Marston
+    github:
+      username: DMar35
+      role: member
+    mailgun:
+      email: dmarston@bu.edu
+      routes:
+        - tech@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
