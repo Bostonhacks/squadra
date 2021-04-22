@@ -577,6 +577,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Fiona Mei
+    github:
+      username: fionamei
+      role: member
+    mailgun:
+      email: fionamei@bu.edu
+      routes:
+        - contact@bostonhacks.io 
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
