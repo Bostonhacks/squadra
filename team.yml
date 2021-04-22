@@ -587,6 +587,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Jarrett Fok
+    github:
+      username: DevJFok
+      role: member
+    mailgun:
+      email: jfok23@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Hailey Moon
     github: 
       username: Hailey-moon
