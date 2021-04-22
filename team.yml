@@ -568,6 +568,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Hailey Moon
+    github: 
+      username: Hailey-moon
+      role: member
+    mailgun:
+      email: hmoon@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
