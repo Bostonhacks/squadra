@@ -568,6 +568,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Violet Nguyen
+    github:
+      username: violetanhnguyen
+      role: member
+    mailgun:
+      email: ngvananh@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Christian Mark
     github:
       username: christiantmark
