@@ -341,6 +341,15 @@ members:
       email: lkwatson@bu.edu
       routes:
         - alumni@bostonhacks.io
+  - name: Marco Raigoza
+    github:
+      username: mraigoza
+      role: member
+    mailgun:
+      email: mraigoza@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Mariana Garces Dematte
     github:
       username: maridematte
