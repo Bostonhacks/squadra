@@ -559,6 +559,15 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: Weiqi Ji
+    github:
+      username: ginomcfino
+      role: member
+    mailgun:
+      email: jiweiqi@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
