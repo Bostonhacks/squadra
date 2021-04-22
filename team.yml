@@ -143,6 +143,16 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Dominic Maglione
+    github:
+      username: dcmaglione
+      role: member
+    mailgun:
+      email: dcmag@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active
   - name: Emily Bowen
     github:
       username: embowen
