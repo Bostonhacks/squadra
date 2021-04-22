@@ -642,6 +642,16 @@ members:
       routes:
         - contact@bostonhacks.io 
     status: active
+  - name: Tom Panenko
+    github:
+      username: tompanenko
+      role: member
+    mailgun:
+      email: tompan@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
