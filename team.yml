@@ -556,6 +556,7 @@ members:
     mailgun:
       email: dmarston@bu.edu
       routes:
+        - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
 mailgun:
