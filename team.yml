@@ -576,6 +576,7 @@ members:
       email: ruojiali@Bu.edu
       routes:
         - contact@bostonhacks.io
+    status: active
   - name: Christian Mark
     github:
       username: christiantmark
