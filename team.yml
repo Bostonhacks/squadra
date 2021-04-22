@@ -606,6 +606,7 @@ members:
       routes:
         - contact@bostonhacks.io
         - marketing@bostonhacks.io
+    status: active
   - name: Jarrett Fok
     github:
       username: DevJFok
