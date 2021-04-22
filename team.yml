@@ -568,6 +568,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Christian Mark
+    github:
+      username: christiantmark
+      role: member
+    mailgun:
+      email: ctmark@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
