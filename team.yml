@@ -171,6 +171,16 @@ members:
       routes:
         - alumni@bostonhacks.io
     status: inactive
+  - name: Gabriel Moncau
+    github:
+      username: gabrieltm9
+      role: member
+    mailgun:
+      email: gmoncau@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active
   - name: Grace Colbert
     github:
       username: gracejpeg
@@ -341,6 +351,15 @@ members:
       email: lkwatson@bu.edu
       routes:
         - alumni@bostonhacks.io
+  - name: Marco Raigoza
+    github:
+      username: mraigoza
+      role: member
+    mailgun:
+      email: mraigoza@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Mariana Garces Dematte
     github:
       username: maridematte
@@ -559,6 +578,16 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: David Marston
+    github:
+      username: DMar35
+      role: member
+    mailgun:
+      email: dmarston@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active
   - name: Weiqi Ji
     github:
       username: ginomcfino
@@ -577,6 +606,32 @@ members:
       routes:
         - contact@bostonhacks.io
         - marketing@bostonhacks.io
+  - name: Jarrett Fok
+    github:
+      username: DevJFok
+      role: member
+    mailgun:
+      email: jfok23@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Hailey Moon
+    github: 
+      username: Hailey-moon
+      role: member
+    mailgun:
+      email: hmoon@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Colette Li
+    github:
+      username: coletteli
+      role: member
+    mailgun:
+      email: ruojiali@Bu.edu
+      routes:
+        - contact@bostonhacks.io
     status: active
   - name: Christian Mark
     github:
@@ -586,6 +641,35 @@ members:
       email: ctmark@bu.edu
       routes:
         - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active
+  - name: Fiona Mei
+    github:
+      username: fionamei
+      role: member
+    mailgun:
+      email: fionamei@bu.edu
+      routes:
+        - contact@bostonhacks.io 
+    status: active
+  - name: Stella Lee
+    github:
+      username: stllaa
+      role: member
+    mailgun:
+      email: stlla@bu.edu
+      routes:
+        - contact@bostonhacks.io 
+    status: active
+  - name: Tom Panenko
+    github:
+      username: tompanenko
+      role: member
+    mailgun:
+      email: tompan@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
 mailgun:
   routes:
