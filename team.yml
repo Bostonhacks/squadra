@@ -105,6 +105,16 @@ members:
         - contact@bostonhacks.io
         - logistics@bostonhacks.io
     status: active
+   - name: Eric Jeon
+    github:
+      username: ejeon129
+      role: member
+    mailgun:
+      email: ejeon@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
+    status: active
   - name: Chinwe Oparaji
     github:
       username: bianca-sparxs
