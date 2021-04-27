@@ -143,6 +143,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Anastasiia Eremina
+    github:
+      username: anaeremina
+      role: member
+    mailgun:
+      email: eremina@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Dominic Maglione
     github:
       username: dcmaglione
