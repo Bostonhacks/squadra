@@ -559,6 +559,14 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+      - name: Dan Galvin
+    github:
+      username: dan-galvin
+      role: member
+    mailgun:
+      email: dgalvin@bu.edu
+      routes:
+        - contact@bostonhacks.io
   - name: Weiqi Ji
     github:
       username: ginomcfino
