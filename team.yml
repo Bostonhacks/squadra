@@ -125,6 +125,16 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Julie Le
+    github:
+      username: julie-le
+      role: member
+    mailgun:
+      email: tjle@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
+    status: active
   - name: Chinwe Oparaji
     github:
       username: bianca-sparxs
