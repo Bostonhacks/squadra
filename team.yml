@@ -625,7 +625,7 @@ members:
       email: dgalvin@bu.edu
       routes:
         - contact@bostonhacks.io
-      status: active
+    status: active
   - name: David Marston
     github:
       username: DMar35
