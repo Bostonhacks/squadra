@@ -617,7 +617,7 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
-      - name: Dan Galvin
+  - name: Dan Galvin
     github:
       username: dan-galvin
       role: member
