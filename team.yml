@@ -617,6 +617,15 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: Dan Galvin
+    github:
+      username: dan-galvin
+      role: member
+    mailgun:
+      email: dgalvin@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: David Marston
     github:
       username: DMar35
