@@ -192,6 +192,16 @@ members:
         - contact@bostonhacks.io
         - logistics@bostonhacks.io
     status: active
+  - name: Daniel Yu
+    github:
+      username: danielyu12
+      role: member
+    mailgun:
+      email: danyu@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active
   - name: Emily Bowen
     github:
       username: embowen
