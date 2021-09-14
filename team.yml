@@ -710,6 +710,25 @@ members:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
+  - name: Daniel Chen
+    github: 
+      username: dan1elchen
+      role: member
+    mailgun:
+      email: dfc@bu.edu
+      routes:
+        - logistics@bostonhacks.io
+    status: active
+  - name: Suin Lee
+    github: 
+      username: SuinLee
+      role: member
+    mailgun:
+      email: suinlee@bu.edu
+      routes:
+        - sponsor@bostonhacks.io
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
