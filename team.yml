@@ -47,7 +47,7 @@ members:
     status: active
   - name: Angela Tran
     github:
-      username: angelaniatran
+      username: angelahytran
       role: member
     mailgun:
       email: ahytran@bu.edu
