@@ -486,16 +486,6 @@ members:
         - mail@bostonhacks.io
         - tech@bostonhacks.io
     status: active
-  - name: Roger Ramesh
-    github:
-      username: rogerramesh
-      role: member
-    mailgun:
-      email: rmramesh@bu.edu
-      routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
-    status: active
   - name: Rudhra Raveendran
     github:
       username: ROODAY
