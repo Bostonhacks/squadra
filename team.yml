@@ -340,6 +340,7 @@ members:
     mailgun:
       email: jordanen@bu.edu
       routes:
+        - tech@bostonhacks.io
         - contact@bostonhacks.io
     status: active
   - name: Joyce Hu
@@ -717,6 +718,16 @@ members:
       email: suinlee@bu.edu
       routes:
         - sponsor@bostonhacks.io
+        - contact@bostonhacks.io
+    status: active
+  - name: Daniel Yu
+    github: 
+      username: Danielyu12
+      role: member
+    mailgun:
+      email: danyu@bu.edu
+      routes:
+        - tech@bostonhacks.io
         - contact@bostonhacks.io
     status: active
 mailgun:
