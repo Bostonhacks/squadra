@@ -721,6 +721,16 @@ members:
         - tech@bostonhacks.io
         - contact@bostonhacks.io
     status: active
+  - name: Justin Lee
+    github: 
+      username: just2nlee
+      role: member
+    mailgun:
+      email: juslee@bu.edu
+      routes:
+        - logistics@bostonhacks.io
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
