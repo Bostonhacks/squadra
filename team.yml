@@ -148,8 +148,7 @@ members:
     mailgun:
       email: changc21@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - logistics@bostonhacks.io
+        - alumni@bostonhacks.io
     status: active
   - name: Claire Choi
     github:
