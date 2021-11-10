@@ -62,9 +62,7 @@ members:
     mailgun:
       email: rasif@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - mail@bostonhacks.io
-        - tech@bostonhacks.io
+        - alumni@bostonhacks.io
     status: active
   - name: Austin Negron
     github:
@@ -112,8 +110,7 @@ members:
     mailgun:
       email: cma4@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - logistics@bostonhacks.io
+        - alumni@bostonhacks.io
     status: active
   - name: Eric Jeon
     github:
