@@ -726,6 +726,7 @@ members:
       routes:
         - logistics@bostonhacks.io
         - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
     status: active
 mailgun:
   routes:
