@@ -728,6 +728,16 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Grace Dai
+    github: 
+      username: gracedai21
+      role: member
+    mailgun:
+      email: gracedai@bu.edu
+      routes:
+        - marketing@bostonhacks.io
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
