@@ -728,6 +728,16 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+   - name: Milo Park
+    github:
+      username: miloopark
+      role: member
+    mailgun:
+      email: minpark@bu.edu
+      routes:
+        - tech@bostonhacks.io
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
