@@ -728,6 +728,17 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+    - name: Dave Godfrey
+    github: 
+      username: EliteEagle77
+      role: member
+    mailgun:
+      email: davegod@bu.edu
+      routes:
+        - logistics@bostonhacks.io
+        - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
