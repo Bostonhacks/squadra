@@ -728,6 +728,15 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+    - name: Simon Cen
+    github:
+      username: scen01
+      role: member
+    mailgun:
+      email: scen01@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
