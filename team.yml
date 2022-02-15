@@ -735,7 +735,6 @@ members:
     mailgun:
       email: minpark@bu.edu
       routes:
-        - tech@bostonhacks.io
         - contact@bostonhacks.io
     status: active
 mailgun:
