@@ -405,7 +405,7 @@ members:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
         - marketing@bostonhacks.io
-    status: active
+    status: inactive
   - name: Michael Hendrick
     github:
       username: mhendrick98
