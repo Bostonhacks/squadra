@@ -735,8 +735,7 @@ members:
     mailgun:
       email: jamxiao@bu.edu
       routes:
-        - logistics@bostonhacks.io
-
+        - contact@bostonhacks.io
     status: active
 mailgun:
   routes:
