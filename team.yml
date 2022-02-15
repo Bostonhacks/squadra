@@ -735,7 +735,6 @@ members:
     mailgun:
       email: gracedai@bu.edu
       routes:
-        - marketing@bostonhacks.io
         - contact@bostonhacks.io
     status: active
 mailgun:
