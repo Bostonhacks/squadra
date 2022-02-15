@@ -737,6 +737,12 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Kian Boon Tan
+    github:
+      username: kbbtan
+      role: member
+    mailgun:
+      email: kbbtan@bu.edu
   - name: Milo Park
     github:
       username: miloopark
