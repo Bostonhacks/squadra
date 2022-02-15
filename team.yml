@@ -223,7 +223,7 @@ members:
       email: guerdon@ligon.org
       routes:
         - contact@bostonhacks.io
-      status: active
+    status: active
   - name: Hannah Hong
     github:
       username: hyhong27
