@@ -737,6 +737,12 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+    - name: Dave Godfrey
+    github: 
+      username: EliteEagle77
+      role: member
+    mailgun:
+      email: davegod@bu.edu
     - name: James Xiao
     github:
       username: jamxiao2025
