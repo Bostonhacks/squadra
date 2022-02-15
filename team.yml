@@ -737,6 +737,15 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+    - name: James Xiao
+    github:
+      username: jamxiao2025
+      role: member
+    mailgun:
+      email: jamxiao@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
