@@ -728,8 +728,7 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
-    
-       - name: Lucas Yoon
+  - name: Lucas Yoon
     github:
       username: jslyoon
       role: member
@@ -738,8 +737,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-      
-
 mailgun:
   routes:
     - name: contact@bostonhacks.io
@@ -766,5 +763,3 @@ mailgun:
     - name: marketing@bostonhacks.io
       formatted: BostonHacks [Marketing] <marketing@bostonhacks.io>
       description: Marketing Team
-      
-     
