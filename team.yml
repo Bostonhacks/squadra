@@ -737,6 +737,12 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Milo Park
+    github:
+      username: miloopark
+      role: member
+    mailgun:
+      email: minpark@bu.edu
   - name: Lucas Yoon
     github:
       username: jslyoon
