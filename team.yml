@@ -737,6 +737,12 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Sam Li
+    github:
+      username: sli85
+      role: member
+    mailgun:
+      email: sli85@bu.edu
   - name: Kian Boon Tan
     github:
       username: kbbtan
