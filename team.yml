@@ -737,6 +737,12 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+    - name: Simon Cen
+    github:
+      username: scen01
+      role: member
+    mailgun:
+      email: scen01@bu.edu
     - name: Dave Godfrey
     github: 
       username: EliteEagle77
