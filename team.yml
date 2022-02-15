@@ -728,7 +728,7 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
-   - name: Milo Park
+  - name: Milo Park
     github:
       username: miloopark
       role: member
