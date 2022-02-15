@@ -17,16 +17,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-  - name: Alex Zhou
-    github:
-      username: realalexzhou13
-      role: member
-    mailgun:
-      email: alexzhou@bu.edu
-      routes:
-        - contact@bostonhacks.io
-        - logistics@bostonhacks.io
-    status: active
   - name: Alicja Wisniowska
     github:
       username: alicjaw
