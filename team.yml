@@ -223,7 +223,7 @@ members:
       email: guerdon@ligon.org
       routes:
         - contact@bostonhacks.io
-      status: active
+    status: active
   - name: Hannah Hong
     github:
       username: hyhong27
@@ -737,43 +737,70 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Grace Dai
+    github: 
+      username: gracedai21
+      role: member
+    mailgun:
+      email: gracedai@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Sam Li
     github:
       username: sli85
       role: member
     mailgun:
       email: sli85@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Kian Boon Tan
     github:
       username: kbbtan
       role: member
     mailgun:
       email: kbbtan@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Milo Park
     github:
       username: miloopark
       role: member
     mailgun:
       email: minpark@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Lucas Yoon
     github:
       username: jslyoon
       role: member
     mailgun:
       email: lyoon02@bu.edu
-    - name: Simon Cen
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Simon Cen
     github:
       username: scen01
       role: member
     mailgun:
       email: scen01@bu.edu
-    - name: Dave Godfrey
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Dave Godfrey
     github: 
       username: EliteEagle77
       role: member
     mailgun:
       email: davegod@bu.edu
-    - name: James Xiao
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: James Xiao
     github:
       username: jamxiao2025
       role: member
