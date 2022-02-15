@@ -737,6 +737,12 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: active
+  - name: Lucas Yoon
+    github:
+      username: jslyoon
+      role: member
+    mailgun:
+      email: lyoon02@bu.edu
     - name: Simon Cen
     github:
       username: scen01
