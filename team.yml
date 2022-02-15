@@ -735,9 +735,7 @@ members:
     mailgun:
       email: davegod@bu.edu
       routes:
-        - logistics@bostonhacks.io
         - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
     status: active
 mailgun:
   routes:
