@@ -251,6 +251,16 @@ members:
       routes:
         - alumni@bostonhacks.io
     status: inactive
+  - name: Jason Kim
+    github:
+      username: kmjson
+      role: member
+    mailgun:
+      email: jasonk@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active
   - name: Jason Li
     github:
       username: jli12
