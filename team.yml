@@ -800,6 +800,42 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Simran Singh
+    github:
+      username: ragingelmo
+      role: member
+    mailgun:
+      email: simran27@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Tiffany Hoang
+    github:
+      username: tiffanynh
+      role: member
+    mailgun:
+      email: thoang@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Stella Park
+    github:
+      username: junheesp
+      role: member
+    mailgun:
+      email: junheesp@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Andrew Hu
+    github:
+      username: feedme143
+      role: member
+    mailgun:
+      email: andrewhu@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
