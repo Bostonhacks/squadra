@@ -836,6 +836,43 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Celine Chen
+    github:
+      username: celinec1
+      role: member
+    mailgun:
+      email: cchen@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active
+  - name: Tiffany Chung
+    github:
+      username: thchung7
+      role: member
+    mailgun:
+      email: thchung@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Jasmine Fanchu Zhou
+    github:
+      username: jazzmint23
+      role: member
+    mailgun:
+      email: fanchuz@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
+  - name: Alex Zhou
+    github:
+      username: alex-zhou13
+      role: member
+    mailgun:
+      email: alexzhou@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
