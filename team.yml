@@ -845,6 +845,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Zachary Gou
+    github:
+      username: zachary1575
+      role: member
+    mailgun:
+      email: zgou@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
   - name: Jasmine Fanchu Zhou
     github:
       username: jazzmint23
