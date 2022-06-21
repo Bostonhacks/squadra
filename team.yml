@@ -872,6 +872,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Matt Firmin
+    github:
+      username: firminm
+      role: member
+    mailgun:
+      email: firminm@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
