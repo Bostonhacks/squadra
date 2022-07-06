@@ -881,6 +881,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Christopher Ayala-Bellido
+    github:
+      username: cyal2000
+      role: member
+    mailgun:
+      email: cayalabe@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
