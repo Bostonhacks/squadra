@@ -405,16 +405,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: inactive
-  - name: Nikita Jakkam
-    github:
-      username: nikitajakkam
-      role: member
-    mailgun:
-      email: njakkam@bu.edu
-      routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
-    status: active
   - name: Noah Naiman
     github:
       username: NoahNaiman
