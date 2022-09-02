@@ -880,6 +880,15 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Esther Choi
+    github:
+      username: essiechoi
+      role: member
+    mailgun:
+      email: eschoi@bu.edu
+      routes:
+        - contact@bostonhacks.io
+    status: active
 mailgun:
   routes:
     - name: contact@bostonhacks.io
