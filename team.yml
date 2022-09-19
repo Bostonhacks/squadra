@@ -366,6 +366,7 @@ members:
       email: mraigoza@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Mariana Garces Dematte
     github:
@@ -725,6 +726,7 @@ members:
       email: kbbtan@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Milo Park
     github:
@@ -734,6 +736,7 @@ members:
       email: minpark@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Lucas Yoon
     github:
@@ -743,6 +746,7 @@ members:
       email: lyoon02@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Simon Cen
     github:
@@ -752,6 +756,7 @@ members:
       email: scen01@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Dave Godfrey
     github: 
@@ -761,6 +766,7 @@ members:
       email: davegod@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: James Xiao
     github:
@@ -788,6 +794,7 @@ members:
       email: simran27@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Tiffany Hoang
     github:
@@ -870,6 +877,7 @@ members:
       email: firminm@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
   - name: Christopher Ayala-Bellido
     github:
@@ -888,6 +896,7 @@ members:
       email: eschoi@bu.edu
       routes:
         - contact@bostonhacks.io
+        - tech@bostonhacks.io
     status: active
 mailgun:
   routes:
