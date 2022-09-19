@@ -148,7 +148,6 @@ members:
       email: jycchoi@bu.edu
       routes:
         - contact@bostonhacks.io
-        - tech@bostonhacks.io
     status: active
   - name: Daniel Gonzalez
     github:
@@ -299,7 +298,6 @@ members:
       email: jybang@bu.edu
       routes:
         - contact@bostonhacks.io
-        - tech@bostonhacks.io
     status: inactive
   - name: John Chai
     github:
@@ -317,7 +315,6 @@ members:
     mailgun:
       email: jordanen@bu.edu
       routes:
-        - tech@bostonhacks.io
         - contact@bostonhacks.io
     status: active
   - name: Joyce Hu
@@ -453,7 +450,6 @@ members:
       routes:
         - contact@bostonhacks.io
         - mail@bostonhacks.io
-        - tech@bostonhacks.io
     status: active
   - name: Rudhra Raveendran
     github:
@@ -564,7 +560,6 @@ members:
       email: xruiz@bu.edu
       routes:
         - contact@bostonhacks.io
-        - tech@bostonhacks.io
     status: active
   - name: Dan Galvin
     github:
