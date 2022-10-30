@@ -26,15 +26,6 @@ members:
       routes:
         - alumni@bostonhacks.io
     status: active
-  - name: Angela Dong
-    github:
-      username: adong868
-      role: member
-    mailgun:
-      email: adong868@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active
   - name: Angela Tran
     github:
       username: angelahytran
