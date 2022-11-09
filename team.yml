@@ -349,7 +349,7 @@ members:
   - name: Marco Raigoza
     github:
       username: mraigoza
-      role: member
+      role: admin
     mailgun:
       email: mraigoza@bu.edu
       routes:
@@ -883,6 +883,15 @@ members:
       routes:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
+    status: active
+  - name: Chloe Lee
+    github:
+      username: chlovlee
+      role: member
+    mailgun:
+      email: leeseo@bu.edu
+      routes:
+        - contact@bostonhacks.io
     status: active
 mailgun:
   routes:
