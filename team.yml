@@ -55,16 +55,6 @@ members:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
     status: inactive
-  - name: Ben Lague
-    github:
-      username: benlague
-      role: member
-    mailgun:
-      email: benlague@bu.edu
-      routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
-    status: inactive
   - name: Bingyi Zeng
     github:
       username: bzeng41
