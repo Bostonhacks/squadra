@@ -385,15 +385,6 @@ members:
       routes:
         - alumni@bostonhacks.io
     status: active
-  - name: Nam Pham
-    github:
-      username: nampham148
-      role: member
-    mailgun:
-      email: nampham@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: inactive
   - name: Noah Naiman
     github:
       username: NoahNaiman
