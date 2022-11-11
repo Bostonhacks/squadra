@@ -404,15 +404,6 @@ members:
       routes:
         - alumni@bostonhacks.io
     status: inactive
-  - name: Rebecca Chang
-    github:
-      username: beccachang
-      role: member
-    mailgun:
-      email: rtchang@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active
   - name: Rishab Nayak
     github:
       username: rishabnayak
