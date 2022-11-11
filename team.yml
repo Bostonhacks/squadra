@@ -26,16 +26,6 @@ members:
       routes:
         - alumni@bostonhacks.io
     status: active
-  - name: Angela Tran
-    github:
-      username: angelahytran
-      role: member
-    mailgun:
-      email: ahytran@bu.edu
-      routes:
-        - contact@bostonhacks.io
-        - marketing@bostonhacks.io
-    status: active
   - name: Asif Rahman
     github:
       username: asifrahman479
@@ -89,16 +79,6 @@ members:
       role: member
     mailgun:
       email: ejeon@bu.edu
-      routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
-    status: active
-  - name: Julie Le
-    github:
-      username: julie-le
-      role: member
-    mailgun:
-      email: tjle@bu.edu
       routes:
         - contact@bostonhacks.io
         - sponsor@bostonhacks.io
@@ -298,15 +278,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-  - name: Joyce Hu
-    github:
-      username: jooyce
-      role: member
-    mailgun:
-      email: joycehu@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: inactive
   - name: Ken Garber
     github:
       username: keng98
@@ -524,15 +495,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
-  - name: Dan Galvin
-    github:
-      username: dan-galvin
-      role: member
-    mailgun:
-      email: dgalvin@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active
   - name: David Marston
     github:
       username: DMar35
@@ -542,16 +504,6 @@ members:
       routes:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
-    status: active
-  - name: Violet Nguyen
-    github:
-      username: violetanhnguyen
-      role: member
-    mailgun:
-      email: ngvananh@bu.edu
-      routes:
-        - contact@bostonhacks.io
-        - marketing@bostonhacks.io
     status: active
   - name: Jarrett Fok
     github:
