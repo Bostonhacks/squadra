@@ -592,7 +592,7 @@ members:
   - name: Daniel Yu
     github: 
       username: Danielyu12
-      role: member
+      role: admin
     mailgun:
       email: danyu@bu.edu
       routes:
