@@ -493,8 +493,8 @@ members:
     mailgun:
       email: xruiz@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: David Marston
     github:
       username: DMar35
