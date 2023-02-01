@@ -801,7 +801,7 @@ members:
     status: active
   - name: Chloe Lee
     github:
-      username: seoclee
+      username: seoclee!
       role: member
     mailgun:
       email: leeseo@bu.edu
