@@ -808,6 +808,256 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active
+  - name: Andrew Juang
+    github:
+      username: Andrew1J
+      role: member
+    mailgun:
+      email: juanga@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active
+  - name: Derek Laboy
+    github:
+      username: dlaboy25
+      role: member
+    mailgun:
+      email: dlaboy@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active
+  - name: Nguyen Le
+    github:
+      username: FilipLe
+      role: member
+    mailgun:
+      email: nguyenle@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active
+  - name: Wyatt Napier
+    github:
+      username: wyattnapier
+      role: member
+    mailgun:
+      email: wnapier@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active
+  - name: Derek Xu
+    github:
+      username: d0w
+      role: member
+    mailgun:
+      email: dxu0117@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active
+  - name: Gavin Park
+    github:
+      username: gavinpark123
+      role: member
+    mailgun:
+      email: Gpark123@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active
+  - name: Declan Young
+    github:
+      username: declanyg
+      role: member
+    mailgun:
+      email: declanyg@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active
+  - name: Thanh Huynh
+    github:
+      username: thanh910
+      role: member
+    mailgun:
+      email: thanh910@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active
+  - name: Rong Chen
+    github:
+      username: thanh910
+      role: member
+    mailgun:
+      email: thanh910@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active
+  - name: Ivan Yang
+    github:
+      username: IvanYangg
+      role: member
+    mailgun:
+      email: yangi@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active  
+  - name: Wanjing Li
+    github:
+      username: wanjingli0728
+      role: member
+    mailgun:
+      email: liwa@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - design@bostonhacks.io
+    status: active 
+  - name: Jake Lee
+    github:
+      username: jaketlee07
+      role: member
+    mailgun:
+      email: jaketlee@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active 
+  - name: James Wong
+    github:
+      username: Jameswong2003
+      role: member
+    mailgun:
+      email: Jamesw03@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - tech@bostonhacks.io
+    status: active 
+  - name: Shraddha Lulla
+    github:
+      username: shraddhalulla
+      role: member
+    mailgun:
+      email: slulla@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
+    status: active 
+  - name: Rachel Young
+    github:
+      username: rachely8
+      role: member
+    mailgun:
+      email: ryoung8@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active 
+  - name: Hoang Nguyen
+    github:
+      username: HoangDavid
+      role: member
+    mailgun:
+      email: nxhoang@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
+    status: active 
+  - name: Tiffany Liu
+    github:
+      username: tiff426
+      role: member
+    mailgun:
+      email: tmliu@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active 
+  - name: Justin Kody Chang
+    github:
+      username: justinkodychang
+      role: member
+    mailgun:
+      email: justinkc@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active 
+  - name: Ruby Chen
+    github:
+      username: rchen0714
+      role: member
+    mailgun:
+      email: RC071404@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - design@bostonhacks.io
+    status: active 
+  - name: Annie Liang
+    github:
+      username: anniebearhere
+      role: member
+    mailgun:
+      email: aaliang@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
+    status: active 
+  - name: Audrey Wang
+    github:
+      username: axwang394
+      role: member
+    mailgun:
+      email: aaliang@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active 
+  - name: Anvitha Nekkanti
+    github:
+      username: anvitha-23
+      role: member
+    mailgun:
+      email: anvithan@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - design@bostonhacks.io
+    status: active 
+  - name: Sohee Lim
+    github:
+      username: soheexlim
+      role: member
+    mailgun:
+      email: soheelim@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - sponsor@bostonhacks.io
+    status: active 
+  - name: Hanna Deng
+    github:
+      username: hannadeng0
+      role: member
+    mailgun:
+      email: hdeng@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active 
+  - name: Emily Dang
+    github:
+      username: dangalong
+      role: member
+    mailgun:
+      email: edang@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active 
 mailgun:
   routes:
     - name: contact@bostonhacks.io
@@ -834,3 +1084,6 @@ mailgun:
     - name: marketing@bostonhacks.io
       formatted: BostonHacks [Marketing] <marketing@bostonhacks.io>
       description: Marketing Team
+    - name: design@bostonhacks.io
+      formatted: BostonHacks [Design] <design@bostonhacks.io>
+      description: Design Team
