@@ -890,10 +890,10 @@ members:
     status: active
   - name: Rong Chen
     github:
-      username: thanh910
+      username: rongc0723
       role: member
     mailgun:
-      email: thanh910@bu.edu
+      email: rongc@bu.edu
       routes:
         - contact@bostonhacks.io
         - tech@bostonhacks.io
@@ -1054,6 +1054,16 @@ members:
       role: member
     mailgun:
       email: edang@bu.edu
+      routes:
+        - contact@bostonhacks.io
+        - marketing@bostonhacks.io
+    status: active 
+  - name: Andrew Liu
+    github:
+      username: andeliuliu
+      role: member
+    mailgun:
+      email: andelie@bu.edu
       routes:
         - contact@bostonhacks.io
         - marketing@bostonhacks.io
