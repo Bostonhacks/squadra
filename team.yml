@@ -1013,7 +1013,7 @@ members:
       username: axwang394
       role: member
     mailgun:
-      email: aaliang@bu.edu
+      email: axwang@bu.edu
       routes:
         - contact@bostonhacks.io
         - logistics@bostonhacks.io
@@ -1067,6 +1067,26 @@ members:
       routes:
         - contact@bostonhacks.io
         - marketing@bostonhacks.io
+    status: active 
+  - name: Yuting Shi
+    github:
+      username: yutingshi02
+      role: member
+    mailgun:
+      email: yutingsh@bu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
+    status: active 
+  - name: Yuting Shi
+    github:
+      username: yutingshi02
+      role: member
+    mailgun:
+      email: yutingsh@bu
+      routes:
+        - contact@bostonhacks.io
+        - logistics@bostonhacks.io
     status: active 
 mailgun:
   routes:
