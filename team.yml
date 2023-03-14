@@ -450,15 +450,6 @@ members:
         - contact@bostonhacks.io
         - logistics@bostonhacks.io
     status: active
-  - name: Victoria Kayola
-    github:
-      username: victoriakayola
-      role: member
-    mailgun:
-      email: vkayola@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: inactive
   - name: Vitor Vicente
     github:
       username: vitorvicente
