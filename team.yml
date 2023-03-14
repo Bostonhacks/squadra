@@ -1063,7 +1063,7 @@ members:
       username: andeliuliu
       role: member
     mailgun:
-      email: andelie@bu.edu
+      email: andeliu@bu.edu
       routes:
         - contact@bostonhacks.io
         - marketing@bostonhacks.io
