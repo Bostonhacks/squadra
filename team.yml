@@ -1064,17 +1064,17 @@ members:
       username: yutingshi02
       role: member
     mailgun:
-      email: yutingsh@bu
+      email: yutingsh@bu.edu
       routes:
         - contact@bostonhacks.io
         - logistics@bostonhacks.io
     status: active 
-  - name: Yuting Shi
+  - name: Stella Lee
     github:
-      username: yutingshi02
+      username: Stllaa
       role: member
     mailgun:
-      email: yutingsh@bu
+      email: stlla@bu.edu
       routes:
         - contact@bostonhacks.io
         - logistics@bostonhacks.io
