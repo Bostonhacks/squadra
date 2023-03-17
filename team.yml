@@ -237,10 +237,7 @@ members:
     mailgun:
       email: jenkim@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - mail@bostonhacks.io
-        - marketing@bostonhacks.io
-    status: active
+    status: inactive
   - name: Jennifer Roh
     github:
       username: smroh17
