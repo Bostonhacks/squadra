@@ -6,8 +6,8 @@ members:
     mailgun:
       email: adoval@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Alex Farra
     github:
       username: alexfarra
@@ -15,7 +15,7 @@ members:
     mailgun:
       email: afarra@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Alicja Wisniowska
     github:
@@ -25,7 +25,7 @@ members:
       email: alicjaw@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Asif Rahman
     github:
       username: asifrahman479
@@ -34,7 +34,7 @@ members:
       email: rasif@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Austin Negron
     github:
       username: austinnegron
@@ -42,8 +42,7 @@ members:
     mailgun:
       email: negrona@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Bingyi Zeng
     github:
@@ -52,8 +51,8 @@ members:
     mailgun:
       email: bzeng41@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Blake Abel
     github:
       username: blabel3
@@ -61,8 +60,7 @@ members:
     mailgun:
       email: blabel@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - logistics@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Charles Ma
     github:
@@ -72,7 +70,7 @@ members:
       email: cma4@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Eric Jeon
     github:
       username: ejeon129
@@ -80,9 +78,8 @@ members:
     mailgun:
       email: ejeon@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Chinwe Oparaji
     github:
       username: bianca-sparxs
@@ -90,7 +87,7 @@ members:
     mailgun:
       email: sparxs@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Chris Chang
     github:
@@ -100,7 +97,7 @@ members:
       email: changc21@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Claire Choi
     github:
       username: jy-clairechoi
@@ -108,8 +105,8 @@ members:
     mailgun:
       email: jycchoi@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Daniel Gonzalez
     github:
       username: dagon8
@@ -117,8 +114,8 @@ members:
     mailgun:
       email: dagon@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Anastasiia Eremina
     github:
       username: anaeremina
@@ -126,8 +123,8 @@ members:
     mailgun:
       email: eremina@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Emily Bowen
     github:
       username: embowen
@@ -135,8 +132,8 @@ members:
     mailgun:
       email: embowen@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Gabriella Roman
     github:
       username: gabriellasroman
@@ -153,7 +150,7 @@ members:
     mailgun:
       email: gcolbert@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Hannah Hong
     github:
@@ -162,8 +159,8 @@ members:
     mailgun:
       email: hyhong@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Hannah Huang
     github:
       username: Yunhan0816
@@ -171,8 +168,8 @@ members:
     mailgun:
       email: yunhanh@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Hany Jasmine
     github:
       username: hanyjasmine
@@ -180,9 +177,8 @@ members:
     mailgun:
       email: hjasmine@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - marketing@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Jane Feng
     github:
       username: jfeng5529
@@ -190,8 +186,8 @@ members:
     mailgun:
       email: jyfeng@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Jason Cho
     github:
       username: jjuncho
@@ -208,9 +204,8 @@ members:
     mailgun:
       email: jasonk@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - marketing@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Jason Li
     github:
       username: jli12
@@ -218,9 +213,8 @@ members:
     mailgun:
       email: jfli@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - logistics@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Jeffrey Hsu
     github:
       username: jeffreyhsu01
@@ -228,8 +222,8 @@ members:
     mailgun:
       email: jeffhsu@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Jennifer Roh
     github:
       username: smroh17
@@ -237,9 +231,8 @@ members:
     mailgun:
       email: smroh17@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Jin Young Bang
     github:
       username: jinyoungbang
@@ -247,7 +240,7 @@ members:
     mailgun:
       email: jybang@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: John Chai
     github:
@@ -265,8 +258,8 @@ members:
     mailgun:
       email: jordanen@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Ken Garber
     github:
       username: keng98
@@ -274,8 +267,7 @@ members:
     mailgun:
       email: kgarber@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - dfp@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Lisa Vu
     github:
@@ -284,8 +276,7 @@ members:
     mailgun:
       email: lisaqv@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Lucas Watson
     status: alum
@@ -303,9 +294,8 @@ members:
     mailgun:
       email: mraigoza@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - tech@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Mariana Garces Dematte
     github:
       username: maridematte
@@ -313,7 +303,7 @@ members:
     mailgun:
       email: mdematte@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Melissa Lin
     github:
@@ -322,9 +312,7 @@ members:
     mailgun:
       email: mlin2022@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - mail@bostonhacks.io
-        - marketing@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Michael Hendrick
     github:
@@ -334,7 +322,7 @@ members:
       email: mhendric@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Noah Naiman
     github:
       username: NoahNaiman
@@ -342,9 +330,7 @@ members:
     mailgun:
       email: nnaiman@bu.edu
       routes:
-        - dfp@bostonhacks.io
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Prim Promchotichai
     github:
@@ -353,7 +339,7 @@ members:
     mailgun:
       email: pnuwapa@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Ramsha Arshad
     github:
@@ -371,9 +357,8 @@ members:
     mailgun:
       email: rishab@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - mail@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Rudhra Raveendran
     github:
       username: ROODAY
@@ -391,7 +376,7 @@ members:
       email: sarah21@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Sarah Rieger
     github:
       username: sarah256
@@ -399,7 +384,7 @@ members:
     mailgun:
       email: srieger@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - alumni@bostonhacks.io
     status: inactive
   - name: Sharon Zou
     github:
@@ -417,9 +402,8 @@ members:
     mailgun:
       email: shimli@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - sponsor@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Sid Premkumar
     github:
       username: sidpremkumar
@@ -436,9 +420,8 @@ members:
     mailgun:
       email: tinhoang@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - logistics@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Vitor Vicente
     github:
       username: vitorvicente
@@ -447,7 +430,7 @@ members:
       email: vitor@bu.edu
       routes:
         - alumni@bostonhacks.io
-    status: active
+    status: inactive
   - name: Vivian Cheung
     github:
       username: vivianacheung
@@ -455,8 +438,8 @@ members:
     mailgun:
       email: vivianac@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Warren Partridge
     github:
       username: warren
@@ -482,9 +465,8 @@ members:
     mailgun:
       email: dmarston@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - tech@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Jarrett Fok
     github:
       username: DevJFok
@@ -492,8 +474,8 @@ members:
     mailgun:
       email: jfok23@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Hailey Moon
     github: 
       username: Hailey-moon
@@ -510,8 +492,8 @@ members:
     mailgun:
       email: ruojiali@Bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Christian Mark
     github:
       username: christiantmark
@@ -519,9 +501,8 @@ members:
     mailgun:
       email: ctmark@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - marketing@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Fiona Mei
     github:
       username: fionamei
@@ -549,16 +530,6 @@ members:
       email: dfc@bu.edu
       routes:
         - logistics@bostonhacks.io
-    status: active
-  - name: Suin Lee
-    github: 
-      username: SuinLee
-      role: member
-    mailgun:
-      email: suinlee@bu.edu
-      routes:
-        - sponsor@bostonhacks.io
-        - contact@bostonhacks.io
     status: active
   - name: Daniel Yu
     github: 
@@ -636,9 +607,8 @@ members:
     mailgun:
       email: scen01@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - tech@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Dave Godfrey
     github: 
       username: DaveG77
@@ -646,9 +616,8 @@ members:
     mailgun:
       email: davegod@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - tech@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: James Xiao
     github:
       username: jamxiao2025
@@ -721,8 +690,8 @@ members:
     mailgun:
       email: thchung@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Zachary Gou
     github:
       username: zachary1575
@@ -757,9 +726,8 @@ members:
     mailgun:
       email: firminm@bu.edu
       routes:
-        - contact@bostonhacks.io
-        - tech@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Christopher Ayala-Bellido
     github:
       username: cyal2000
@@ -767,8 +735,8 @@ members:
     mailgun:
       email: cayalabe@bu.edu
       routes:
-        - contact@bostonhacks.io
-    status: active
+        - alumni@bostonhacks.io
+    status: inactive
   - name: Esther Choi
     github:
       username: essiechoi
