@@ -1044,9 +1044,6 @@ mailgun:
     - name: alumni@bostonhacks.io
       formatted: BostonHacks [Alumni] <alumni@bostonhacks.io>
       description: Active alumni mailing list
-    - name: dfp@bostonhacks.io
-      formatted: BostonHacks [DFP] <dfp@bostonhacks.io>
-      description: Daily Free Press Team
     - name: sponsor@bostonhacks.io
       formatted: BostonHacks [Sponsor] <sponsor@bostonhacks.io>
       description: Sponsorship Team
