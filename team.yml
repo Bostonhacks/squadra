@@ -254,7 +254,7 @@ members:
   - name: Jordan Nichols
     github:
       username: jordanenichols
-      role: admin
+      role: member
     mailgun:
       email: jordanen@bu.edu
       routes:
