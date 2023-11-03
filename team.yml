@@ -826,7 +826,7 @@ members:
     status: active
   - name: Thanh Huynh
     github:
-      username: thanh910
+      username: thanhthuynh
       role: member
     mailgun:
       email: thanh910@bu.edu
