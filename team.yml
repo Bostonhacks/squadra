@@ -587,7 +587,6 @@ members:
     mailgun:
       email: minpark@bu.edu
       routes:
-        - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
   - name: Lucas Yoon
@@ -758,7 +757,7 @@ members:
     status: active
   - name: Andrew Juang
     github:
-      username: Andrew1J
+      username: andrew-juang
       role: member
     mailgun:
       email: juanga@bu.edu
@@ -773,7 +772,6 @@ members:
     mailgun:
       email: dlaboy@bu.edu
       routes:
-        - contact@bostonhacks.io
         - tech@bostonhacks.io
     status: active
   - name: Nguyen Le
@@ -833,7 +831,6 @@ members:
     mailgun:
       email: thanh910@bu.edu
       routes:
-        - contact@bostonhacks.io
         - marketing@bostonhacks.io
     status: active
   - name: Rong Chen
