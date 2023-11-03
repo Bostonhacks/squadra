@@ -945,7 +945,7 @@ members:
     status: active 
   - name: Annie Liang
     github:
-      username: anniebearhere
+      username: anniealiang
       role: member
     mailgun:
       email: aaliang@bu.edu
