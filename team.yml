@@ -870,7 +870,7 @@ members:
     mailgun:
       email: jaketlee@bu.edu
       routes:
-        - contact@bostonhacks.io
+        - contact@bostonhacks.org
         - tech@bostonhacks.io
     status: active 
   - name: James Wong
@@ -1035,8 +1035,8 @@ members:
     status: active 
 mailgun:
   routes:
-    - name: contact@bostonhacks.io
-      formatted: BostonHacks [Contact] <contact@bostonhacks.io>
+    - name: contact@bostonhacks.org
+      formatted: BostonHacks [Contact] <contact@bostonhacks.org>
       description: General catch-all bostonhacks emails
     - name: alumni@bostonhacks.io
       formatted: BostonHacks [Alumni] <alumni@bostonhacks.io>
