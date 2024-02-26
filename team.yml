@@ -866,7 +866,7 @@ members:
   - name: Jake Lee
     github:
       username: jaketlee07
-      role: member
+      role: admin
     mailgun:
       email: jaketlee@bu.edu
       routes:
