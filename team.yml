@@ -1042,7 +1042,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Jaden Cheong
+  - name: Jaden Cheong
     github:
       username: jadencheong
       role: member
@@ -1051,7 +1051,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Ethan Chang
+  - name: Ethan Chang
     github:
       username: chang115
       role: member
@@ -1060,7 +1060,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Kuba Rozwadowski
+  - name: Kuba Rozwadowski
     github:
       username: kubarozwadowski
       role: member
@@ -1069,7 +1069,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Laurel Purcell
+  - name: Laurel Purcell
     github:
       username: laurelpurcell
       role: member
@@ -1078,7 +1078,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Enoch Ngan
+  - name: Enoch Ngan
     github:
       username: enochngan
       role: member
@@ -1087,7 +1087,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Aaliyah Aman
+  - name: Aaliyah Aman
     github:
       username: aaliyahamann
       role: member
@@ -1096,7 +1096,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Paulo Obnial
+  - name: Paulo Obnial
     github:
       username: pobnial
       role: member
@@ -1105,7 +1105,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Emily Yang
+  - name: Emily Yang
     github:
       username: 1008emily
       role: member
@@ -1114,7 +1114,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Brandon David
+  - name: Brandon David
     github:
       username: BDogeee
       role: member
@@ -1123,7 +1123,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Michelle Lim
+  - name: Michelle Lim
     github:
       username: michelleelim
       role: member
@@ -1132,7 +1132,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Alice Han
+  - name: Alice Han
     github:
       username: alicehan8
       role: member
@@ -1141,7 +1141,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Vincent Sun
+  - name: Vincent Sun
     github:
       username: Vincentsun0924
       role: member
@@ -1150,7 +1150,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Niki Taradash
+  - name: Niki Taradash
     github:
       username: nikitara-27
       role: member
@@ -1159,7 +1159,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Tiffany Deng
+  - name: Tiffany Deng
     github:
       username: tiffanydengg
       role: member
@@ -1168,7 +1168,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Sid Sheth
+  - name: Sid Sheth
     github:
       username: SidSheth007
       role: member
@@ -1177,7 +1177,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Tia Zheng
+  - name: Tia Zheng
     github:
       username: tiazheng04
       role: member
@@ -1186,7 +1186,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Nancy Liu 
+  - name: Nancy Liu 
     github:
       username: jnancyliu
       role: member
@@ -1195,7 +1195,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Lizna Merani
+  - name: Lizna Merani
     github:
       username: 
       role: member
@@ -1204,7 +1204,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Zaki Araujo
+  - name: Zaki Araujo
     github:
       username: araujozBU
       role: member
@@ -1213,7 +1213,7 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Cherilyn Kim
+  - name: Cherilyn Kim
     github:
       username: cherilynkim
       role: member
