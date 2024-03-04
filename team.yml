@@ -1042,186 +1042,186 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Jaden Cheong
-    github:
-      username: jadencheong
-      role: member
-    mailgun:
-      email: Jkcheong@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Ethan Chang
-    github:
-      username: chang115
-      role: member
-    mailgun:
-      email: chang115@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Kuba Rozwadowski
-    github:
-      username: kubarozwadowski
-      role: member
-    mailgun:
-      email: kubaroz@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Laurel Purcell
-    github:
-      username: laurelpurcell
-      role: member
-    mailgun:
-      email: lgp116@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Enoch Ngan
-    github:
-      username: enochngan
-      role: member
-    mailgun:
-      email: engan@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Aaliyah Aman
-    github:
-      username: aaliyahamann
-      role: member
-    mailgun:
-      email: aalaman@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Paulo Obnial
-    github:
-      username: pobnial
-      role: member
-    mailgun:
-      email: pobnial@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Emily Yang
-    github:
-      username: 1008emily
-      role: member
-    mailgun:
-      email: yang03@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Brandon David
-    github:
-      username: BDogeee
-      role: member
-    mailgun:
-      email: Brdavid@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Michelle Lim
-    github:
-      username: michelleelim
-      role: member
-    mailgun:
-      email: mylim@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Alice Han
-    github:
-      username: alicehan8
-      role: member
-    mailgun:
-      email: alicehan@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Vincent Sun
-    github:
-      username: Vincentsun0924
-      role: member
-    mailgun:
-      email: Sunvince@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Niki Taradash
-    github:
-      username: nikitara-27
-      role: member
-    mailgun:
-      email: nikit27@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Tiffany Deng
-    github:
-      username: tiffanydengg
-      role: member
-    mailgun:
-      email: tiffdeng@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Sid Sheth
-    github:
-      username: SidSheth007
-      role: member
-    mailgun:
-      email: sidsheth@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Tia Zheng
-    github:
-      username: tiazheng04
-      role: member
-    mailgun:
-      email: tiaz04@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Nancy Liu 
-    github:
-      username: jnancyliu
-      role: member
-    mailgun:
-      email: lnanan@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Lizna Merani
-    github:
-      username: 
-      role: member
-    mailgun:
-      email: lmerani@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Zaki Araujo
-    github:
-      username: araujozBU
-      role: member
-    mailgun:
-      email: araujoz@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
-   - name: Cherilyn Kim
-    github:
-      username: cherilynkim
-      role: member
-    mailgun:
-      email: kimc@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
+ - name: Jaden Cheong
+  github:
+    username: jadencheong
+    role: member
+  mailgun:
+    email: Jkcheong@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Ethan Chang
+  github:
+    username: chang115
+    role: member
+  mailgun:
+    email: chang115@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Kuba Rozwadowski
+  github:
+    username: kubarozwadowski
+    role: member
+  mailgun:
+    email: kubaroz@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Laurel Purcell
+  github:
+    username: laurelpurcell
+    role: member
+  mailgun:
+    email: lgp116@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Enoch Ngan
+  github:
+    username: enochngan
+    role: member
+  mailgun:
+    email: engan@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Aaliyah Aman
+  github:
+    username: aaliyahamann
+    role: member
+  mailgun:
+    email: aalaman@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Paulo Obnial
+  github:
+    username: pobnial
+    role: member
+  mailgun:
+    email: pobnial@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Emily Yang
+  github:
+    username: 1008emily
+    role: member
+  mailgun:
+    email: yang03@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Brandon David
+  github:
+    username: BDogeee
+    role: member
+  mailgun:
+    email: Brdavid@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Michelle Lim
+  github:
+    username: michelleelim
+    role: member
+  mailgun:
+    email: mylim@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Alice Han
+  github:
+    username: alicehan8
+    role: member
+  mailgun:
+    email: alicehan@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Vincent Sun
+  github:
+    username: Vincentsun0924
+    role: member
+  mailgun:
+    email: Sunvince@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Niki Taradash
+  github:
+    username: nikitara-27
+    role: member
+  mailgun:
+    email: nikit27@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Tiffany Deng
+  github:
+    username: tiffanydengg
+    role: member
+  mailgun:
+    email: tiffdeng@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Sid Sheth
+  github:
+    username: SidSheth007
+    role: member
+  mailgun:
+    email: sidsheth@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Tia Zheng
+  github:
+    username: tiazheng04
+    role: member
+  mailgun:
+    email: tiaz04@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Nancy Liu 
+  github:
+    username: jnancyliu
+    role: member
+  mailgun:
+    email: lnanan@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Lizna Merani
+  github:
+    username: 
+    role: member
+  mailgun:
+    email: lmerani@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Zaki Araujo
+  github:
+    username: araujozBU
+    role: member
+  mailgun:
+    email: araujoz@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
+ - name: Cherilyn Kim
+  github:
+    username: cherilynkim
+    role: member
+  mailgun:
+    email: kimc@bu.edu
+    routes:
+      - contact@bostonhacks.io
+  status: active 
 mailgun:
   routes:
     - name: contact@bostonhacks.io
