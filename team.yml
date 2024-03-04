@@ -1195,15 +1195,6 @@ members:
       routes:
         - contact@bostonhacks.io
     status: active 
-   - name: Lizna Merani
-    github:
-      username: 
-      role: member
-    mailgun:
-      email: lmerani@bu.edu
-      routes:
-        - contact@bostonhacks.io
-    status: active 
    - name: Zaki Araujo
     github:
       username: araujozBU
