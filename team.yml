@@ -620,7 +620,7 @@ members:
   - name: James Xiao
     github:
       username: jamxiao2025
-      role: member
+      role: admin
     mailgun:
       email: jamxiao@bu.edu
       routes:
@@ -675,7 +675,7 @@ members:
   - name: Celine Chen
     github:
       username: celinec1
-      role: member
+      role: admin
     mailgun:
       email: cchen@bu.edu
       routes:
@@ -749,7 +749,7 @@ members:
   - name: Chloe Lee
     github:
       username: seoclee
-      role: member
+      role: admin
     mailgun:
       email: leeseo@bu.edu
       routes:
@@ -787,7 +787,7 @@ members:
   - name: Wyatt Napier
     github:
       username: wyattnapier
-      role: member
+      role: admin
     mailgun:
       email: wnapier@bu.edu
       routes:
@@ -1016,7 +1016,7 @@ members:
   - name: Yuting Shi
     github:
       username: yutingshi02
-      role: member
+      role: admin
     mailgun:
       email: yutingsh@bu.edu
       routes:
